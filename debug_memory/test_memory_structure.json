@@ -1,0 +1,36 @@
+{
+  "memory_levels": {
+    "LEVEL_1": [
+      {
+        "id": 1,
+        "content": "Test mémoire court terme",
+        "level": "LEVEL_1",
+        "importance": 0.5,
+        "created_at": "2025-04-15T07:25:17.523396",
+        "last_accessed": "2025-04-15T07:25:17.523397",
+        "access_count": 1,
+        "metadata": {
+          "source": "test"
+        }
+      }
+    ],
+    "LEVEL_2": [
+      {
+        "id": 2,
+        "content": "Test mémoire travail",
+        "level": "LEVEL_2",
+        "importance": 0.7,
+        "created_at": "2025-04-15T07:25:17.523399",
+        "last_accessed": "2025-04-15T07:25:17.523400",
+        "access_count": 0,
+        "metadata": {
+          "source": "test"
+        }
+      }
+    ],
+    "LEVEL_3": [],
+    "FACTUAL": []
+  },
+  "memory_id_counter": 3,
+  "last_saved": "2025-04-15T07:25:17.523401"
+}

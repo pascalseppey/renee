@@ -1,0 +1,7 @@
+{
+    "use_mps": true,
+    "use_gpu": false,
+    "mixed_precision": true,
+    "batch_size": 16,
+    "device": "mps"
+}

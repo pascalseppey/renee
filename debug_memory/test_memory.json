@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-04-15T08:07:10.391321",
+  "scenario": "Relation Pascal-Renée",
+  "memory_levels": {
+    "LEVEL_1": 0,
+    "LEVEL_2": 0,
+    "LEVEL_3": 1,
+    "FACTUAL": 1
+  }
+}

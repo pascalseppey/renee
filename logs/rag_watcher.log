@@ -1,0 +1,763 @@
+2025-04-15 00:25:00,529 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-15 00:25:03,821 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-04-15 00:25:06,690 - rag.rag_hub - INFO - Base de données vectorielle Qdrant initialisée
+2025-04-15 00:25:07,273 - sentence_transformers.cross_encoder.CrossEncoder - WARNING - You are trying to use a model that was created with Sentence Transformers version 4.1.0.dev0, but you're currently using version 4.0.2. This might cause unexpected behavior or errors. In that case, try to update to the latest version.
+2025-04-15 00:25:16,919 - rag.rag_hub - INFO - Modèle de re-ranking chargé
+2025-04-15 00:25:16,921 - rag.rag_hub - INFO - RAGHub initialisé avec qdrant et BAAI/bge-large-en-v1.5
+2025-04-15 00:25:16,922 - ReneeRAGWatcher - INFO - Surveillance configurée pour le répertoire: /Users/pascalseppey/Desktop/ReneeRAGDocs
+2025-04-15 00:25:16,922 - ReneeRAGWatcher - INFO - Les fichiers traités seront déplacés vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed
+2025-04-15 00:25:16,922 - ReneeRAGWatcher - INFO - Démarrage de la surveillance...
+2025-04-15 00:25:16,968 - ReneeRAGWatcher - INFO - Surveillance démarrée
+2025-04-15 00:25:18,476 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt
+2025-04-15 00:25:18,477 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt
+2025-04-15 00:25:18,477 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt
+2025-04-15 00:25:18,663 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:25:18,663 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:25:18,663 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:25:19,278 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:25:19,278 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:25:19,278 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:25:19,311 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:25:19,311 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:25:19,311 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:25:19,311 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:25:19,311 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:25:19,311 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:25:19,311 - ReneeRAGWatcher - ERROR - Erreur lors du traitement du fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt: 'utf-8' codec can't decode byte 0x8e in position 13: invalid start byte
+2025-04-15 00:25:19,311 - ReneeRAGWatcher - ERROR - Erreur lors du traitement du fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt: 'utf-8' codec can't decode byte 0x8e in position 21: invalid start byte
+2025-04-15 00:25:19,311 - ReneeRAGWatcher - ERROR - Impossible d'ajouter le document au RAG: 'utf-8' codec can't decode byte 0x8e in position 13: invalid start byte
+2025-04-15 00:25:19,311 - ReneeRAGWatcher - ERROR - Erreur lors du traitement du fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt: 'utf-8' codec can't decode byte 0x8e in position 95: invalid start byte
+2025-04-15 00:25:19,311 - ReneeRAGWatcher - ERROR - Impossible d'ajouter le document au RAG: 'utf-8' codec can't decode byte 0x8e in position 21: invalid start byte
+2025-04-15 00:25:19,311 - ReneeRAGWatcher - ERROR - Impossible d'ajouter le document au RAG: 'utf-8' codec can't decode byte 0x8e in position 95: invalid start byte
+2025-04-15 00:26:38,922 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-15 00:26:39,137 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-04-15 00:26:41,285 - rag.rag_hub - INFO - Base de données vectorielle Qdrant initialisée
+2025-04-15 00:26:41,731 - sentence_transformers.cross_encoder.CrossEncoder - WARNING - You are trying to use a model that was created with Sentence Transformers version 4.1.0.dev0, but you're currently using version 4.0.2. This might cause unexpected behavior or errors. In that case, try to update to the latest version.
+2025-04-15 00:26:42,535 - rag.rag_hub - INFO - Modèle de re-ranking chargé
+2025-04-15 00:26:42,535 - rag.rag_hub - INFO - RAGHub initialisé avec qdrant et BAAI/bge-large-en-v1.5
+2025-04-15 00:26:42,536 - ReneeRAGWatcher - INFO - Surveillance configurée pour le répertoire: /Users/pascalseppey/Desktop/ReneeRAGDocs
+2025-04-15 00:26:42,536 - ReneeRAGWatcher - INFO - Les fichiers traités seront déplacés vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed
+2025-04-15 00:26:42,537 - ReneeRAGWatcher - INFO - Démarrage de la surveillance...
+2025-04-15 00:26:42,586 - ReneeRAGWatcher - INFO - Surveillance démarrée
+2025-04-15 00:26:44,094 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt
+2025-04-15 00:26:44,094 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt
+2025-04-15 00:26:44,094 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt
+2025-04-15 00:26:44,257 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:26:44,257 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:26:44,257 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:26:44,290 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:26:44,290 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:26:44,290 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:26:44,315 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:26:44,315 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:26:44,315 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:26:44,315 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:26:44,315 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:26:44,315 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:26:44,316 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt ouvert avec l'encodage latin-1
+2025-04-15 00:26:44,316 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt ouvert avec l'encodage latin-1
+2025-04-15 00:26:44,316 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt ouvert avec l'encodage latin-1
+2025-04-15 00:26:44,317 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:26:44,317 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.json
+2025-04-15 00:26:44,317 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.json
+2025-04-15 00:26:45,833 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.json
+2025-04-15 00:26:45,833 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.json
+2025-04-15 00:26:45,835 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.json
+2025-04-15 00:26:45,835 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:26:45,840 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.json
+2025-04-15 00:26:45,844 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:26:48,902 - rag.rag_hub - ERROR - Erreur lors de l'ajout du document: Collection knowledge_base not found
+2025-04-15 00:26:48,902 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: None
+2025-04-15 00:26:48,902 - rag.rag_hub - ERROR - Erreur lors de l'ajout du document: Collection knowledge_base not found
+2025-04-15 00:26:48,903 - rag.rag_hub - ERROR - Erreur lors de l'ajout du document: Collection knowledge_base not found
+2025-04-15 00:26:48,903 - rag.rag_hub - ERROR - Erreur lors de l'ajout du document: Collection knowledge_base not found
+2025-04-15 00:26:48,903 - rag.rag_hub - ERROR - Erreur lors de l'ajout du document: Collection knowledge_base not found
+2025-04-15 00:26:48,903 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: None
+2025-04-15 00:26:48,903 - rag.rag_hub - ERROR - Erreur lors de l'ajout du document: Collection knowledge_base not found
+2025-04-15 00:26:48,903 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: None
+2025-04-15 00:26:48,903 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: None
+2025-04-15 00:26:48,903 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: None
+2025-04-15 00:26:48,904 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: None
+2025-04-15 00:28:15,785 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-15 00:28:15,994 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-04-15 00:28:18,162 - rag.rag_hub - INFO - Base de données vectorielle Qdrant initialisée
+2025-04-15 00:28:18,429 - sentence_transformers.cross_encoder.CrossEncoder - WARNING - You are trying to use a model that was created with Sentence Transformers version 4.1.0.dev0, but you're currently using version 4.0.2. This might cause unexpected behavior or errors. In that case, try to update to the latest version.
+2025-04-15 00:28:19,206 - rag.rag_hub - INFO - Modèle de re-ranking chargé
+2025-04-15 00:28:19,389 - rag.rag_hub - INFO - Collection 'knowledge_base' créée dans Qdrant
+2025-04-15 00:28:19,389 - rag.rag_hub - INFO - RAGHub initialisé avec qdrant et BAAI/bge-large-en-v1.5
+2025-04-15 00:28:19,390 - ReneeRAGWatcher - INFO - Surveillance configurée pour le répertoire: /Users/pascalseppey/Desktop/ReneeRAGDocs
+2025-04-15 00:28:19,390 - ReneeRAGWatcher - INFO - Les fichiers traités seront déplacés vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed
+2025-04-15 00:28:19,390 - ReneeRAGWatcher - INFO - Démarrage de la surveillance...
+2025-04-15 00:28:19,390 - ReneeRAGWatcher - INFO - Surveillance démarrée
+2025-04-15 00:28:20,897 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt
+2025-04-15 00:28:20,900 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt
+2025-04-15 00:28:20,901 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt
+2025-04-15 00:28:21,065 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:28:21,065 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:28:21,065 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:28:21,101 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:28:21,101 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:28:21,101 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:28:21,126 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:28:21,126 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:28:21,126 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:28:21,126 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:28:21,126 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:28:21,126 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:28:21,127 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt ouvert avec l'encodage latin-1
+2025-04-15 00:28:21,127 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt ouvert avec l'encodage latin-1
+2025-04-15 00:28:21,127 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt ouvert avec l'encodage latin-1
+2025-04-15 00:28:21,128 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.json
+2025-04-15 00:28:21,128 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:28:21,128 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.json
+2025-04-15 00:28:22,070 - rag.rag_hub - ERROR - Erreur lors de l'ajout du document: 'dict' object has no attribute 'id'
+2025-04-15 00:28:22,071 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: None
+2025-04-15 00:28:22,112 - rag.rag_hub - ERROR - Erreur lors de l'ajout du document: 'dict' object has no attribute 'id'
+2025-04-15 00:28:22,112 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: None
+2025-04-15 00:28:22,235 - rag.rag_hub - ERROR - Erreur lors de l'ajout du document: 'dict' object has no attribute 'id'
+2025-04-15 00:28:22,235 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: None
+2025-04-15 00:28:22,643 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.json
+2025-04-15 00:28:22,645 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.json
+2025-04-15 00:28:22,645 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:28:22,652 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.json
+2025-04-15 00:28:22,653 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:28:22,655 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.json
+2025-04-15 00:28:23,551 - rag.rag_hub - ERROR - Erreur lors de l'ajout du document: 'dict' object has no attribute 'id'
+2025-04-15 00:28:23,551 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: None
+2025-04-15 00:28:23,612 - rag.rag_hub - ERROR - Erreur lors de l'ajout du document: 'dict' object has no attribute 'id'
+2025-04-15 00:28:23,612 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: None
+2025-04-15 00:28:23,710 - rag.rag_hub - ERROR - Erreur lors de l'ajout du document: 'dict' object has no attribute 'id'
+2025-04-15 00:28:23,710 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: None
+2025-04-15 00:29:01,380 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-15 00:29:01,567 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-04-15 00:29:03,441 - rag.rag_hub - INFO - Base de données vectorielle Qdrant initialisée
+2025-04-15 00:29:03,686 - sentence_transformers.cross_encoder.CrossEncoder - WARNING - You are trying to use a model that was created with Sentence Transformers version 4.1.0.dev0, but you're currently using version 4.0.2. This might cause unexpected behavior or errors. In that case, try to update to the latest version.
+2025-04-15 00:29:04,505 - rag.rag_hub - INFO - Modèle de re-ranking chargé
+2025-04-15 00:29:04,731 - rag.rag_hub - INFO - Collection 'knowledge_base' créée dans Qdrant
+2025-04-15 00:29:04,731 - rag.rag_hub - INFO - RAGHub initialisé avec qdrant et BAAI/bge-large-en-v1.5
+2025-04-15 00:29:04,732 - ReneeRAGWatcher - INFO - Surveillance configurée pour le répertoire: /Users/pascalseppey/Desktop/ReneeRAGDocs
+2025-04-15 00:29:04,732 - ReneeRAGWatcher - INFO - Les fichiers traités seront déplacés vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed
+2025-04-15 00:29:04,732 - ReneeRAGWatcher - INFO - Démarrage de la surveillance...
+2025-04-15 00:29:04,732 - ReneeRAGWatcher - INFO - Surveillance démarrée
+2025-04-15 00:29:06,239 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt
+2025-04-15 00:29:06,239 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt
+2025-04-15 00:29:06,239 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt
+2025-04-15 00:29:06,406 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:29:06,406 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:29:06,406 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:29:06,438 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:29:06,438 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:29:06,438 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:29:06,463 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:29:06,463 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:29:06,463 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:29:06,463 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:29:06,463 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:29:06,463 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:29:06,464 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt ouvert avec l'encodage latin-1
+2025-04-15 00:29:06,464 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt ouvert avec l'encodage latin-1
+2025-04-15 00:29:06,464 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt ouvert avec l'encodage latin-1
+2025-04-15 00:29:06,465 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:06,465 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.json
+2025-04-15 00:29:06,466 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.json
+2025-04-15 00:29:07,431 - rag.rag_hub - INFO - Document ajouté avec succès, ID: ba81db3c-0daa-4f8d-989c-36cb25b03d77
+2025-04-15 00:29:07,431 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: ba81db3c-0daa-4f8d-989c-36cb25b03d77
+2025-04-15 00:29:07,432 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002907_Guide API WordPress détaillé_.txt
+2025-04-15 00:29:07,502 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 5e3a5773-bb3c-4b03-a79f-398f0866ce3a
+2025-04-15 00:29:07,503 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 5e3a5773-bb3c-4b03-a79f-398f0866ce3a
+2025-04-15 00:29:07,503 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002907_Guide Elementor _ Modifications API_.txt
+2025-04-15 00:29:07,521 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 22d764ff-d7e7-4599-8098-9f858240adda
+2025-04-15 00:29:07,521 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 22d764ff-d7e7-4599-8098-9f858240adda
+2025-04-15 00:29:07,522 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002907_Guide complet_Wordpress_API.txt
+2025-04-15 00:29:07,985 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.json
+2025-04-15 00:29:07,987 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.json
+2025-04-15 00:29:07,987 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:07,994 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.json
+2025-04-15 00:29:07,997 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:07,997 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.json
+2025-04-15 00:29:08,931 - rag.rag_hub - INFO - Document ajouté avec succès, ID: ea029e52-27dc-4751-b202-7a967d75313f
+2025-04-15 00:29:08,932 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: ea029e52-27dc-4751-b202-7a967d75313f
+2025-04-15 00:29:08,932 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:08,950 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:08,951 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:09,020 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:09,020 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:09,040 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:09,041 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:09,117 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 746f8149-887d-4111-be05-8bdd4e951c10
+2025-04-15 00:29:09,117 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 746f8149-887d-4111-be05-8bdd4e951c10
+2025-04-15 00:29:09,118 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:09,205 - rag.rag_hub - INFO - Document ajouté avec succès, ID: c2a34fb2-6864-4629-a43b-7b76a51d67a6
+2025-04-15 00:29:09,205 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: c2a34fb2-6864-4629-a43b-7b76a51d67a6
+2025-04-15 00:29:09,208 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:09,970 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 11d66e97-d8ee-4bf0-b136-d307496c25b2
+2025-04-15 00:29:09,970 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 11d66e97-d8ee-4bf0-b136-d307496c25b2
+2025-04-15 00:29:09,970 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:10,125 - rag.rag_hub - INFO - Document ajouté avec succès, ID: f3b54937-84b1-4292-a1d6-ea938e9c955e
+2025-04-15 00:29:10,125 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: f3b54937-84b1-4292-a1d6-ea938e9c955e
+2025-04-15 00:29:10,125 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:10,172 - rag.rag_hub - INFO - Document ajouté avec succès, ID: c19c7306-45f9-45e1-be6d-5e722a30fd27
+2025-04-15 00:29:10,172 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: c19c7306-45f9-45e1-be6d-5e722a30fd27
+2025-04-15 00:29:10,173 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:10,450 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:10,452 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:10,635 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:10,637 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:10,723 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:10,724 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:11,140 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 768a09d8-52b4-4a27-ae2b-66f62c28ae52
+2025-04-15 00:29:11,140 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 768a09d8-52b4-4a27-ae2b-66f62c28ae52
+2025-04-15 00:29:11,141 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:11,357 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 8bf2e7f2-c7af-405e-ac1b-772a084dcbe6
+2025-04-15 00:29:11,357 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 8bf2e7f2-c7af-405e-ac1b-772a084dcbe6
+2025-04-15 00:29:11,357 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:11,489 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:11,490 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:11,645 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:11,647 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:11,688 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:11,689 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:11,695 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 13f624a0-c41c-4662-89bc-eed265509efb
+2025-04-15 00:29:11,695 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 13f624a0-c41c-4662-89bc-eed265509efb
+2025-04-15 00:29:11,696 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:12,444 - rag.rag_hub - INFO - Document ajouté avec succès, ID: ba1af69f-a18d-4454-8256-ea8575b2f22a
+2025-04-15 00:29:12,444 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: ba1af69f-a18d-4454-8256-ea8575b2f22a
+2025-04-15 00:29:12,444 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:12,559 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 7aaed53d-d79d-4799-a7e3-2b5a826896b2
+2025-04-15 00:29:12,559 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 7aaed53d-d79d-4799-a7e3-2b5a826896b2
+2025-04-15 00:29:12,559 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:12,661 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:12,662 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:12,667 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 068dae22-d38d-4e16-b646-266f4ee698c1
+2025-04-15 00:29:12,667 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 068dae22-d38d-4e16-b646-266f4ee698c1
+2025-04-15 00:29:12,667 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:12,875 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:12,876 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:13,204 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:13,205 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:13,383 - rag.rag_hub - INFO - Document ajouté avec succès, ID: faeda0be-eb0c-4fc5-8617-9d814704e35e
+2025-04-15 00:29:13,383 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: faeda0be-eb0c-4fc5-8617-9d814704e35e
+2025-04-15 00:29:13,384 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:13,784 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 7d3402ab-8ac9-468f-b0c6-1f904f74bf1d
+2025-04-15 00:29:13,784 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 7d3402ab-8ac9-468f-b0c6-1f904f74bf1d
+2025-04-15 00:29:13,786 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:13,959 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:13,960 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:13,996 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 4a46d088-9c2c-4889-ad15-f1892beb3409
+2025-04-15 00:29:13,996 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 4a46d088-9c2c-4889-ad15-f1892beb3409
+2025-04-15 00:29:13,997 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:14,081 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:14,082 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:14,174 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:14,175 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:14,852 - rag.rag_hub - INFO - Document ajouté avec succès, ID: da396172-4b94-45ba-bd98-332ee359bb3c
+2025-04-15 00:29:14,852 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: da396172-4b94-45ba-bd98-332ee359bb3c
+2025-04-15 00:29:14,853 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:14,900 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:14,901 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:15,068 - rag.rag_hub - INFO - Document ajouté avec succès, ID: a3a2673f-91c5-452e-942a-850e7cd76ec3
+2025-04-15 00:29:15,068 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: a3a2673f-91c5-452e-942a-850e7cd76ec3
+2025-04-15 00:29:15,069 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:15,126 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 14194e22-1142-415b-a4cd-654cbb948677
+2025-04-15 00:29:15,126 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 14194e22-1142-415b-a4cd-654cbb948677
+2025-04-15 00:29:15,127 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:15,302 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:15,303 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:15,512 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:15,513 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:15,644 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 8bff2f2c-2718-4f8b-88e3-d412eeef23c6
+2025-04-15 00:29:15,644 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 8bff2f2c-2718-4f8b-88e3-d412eeef23c6
+2025-04-15 00:29:15,646 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:16,120 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 25d901ae-96aa-4f70-8946-fb389a79b9fc
+2025-04-15 00:29:16,120 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 25d901ae-96aa-4f70-8946-fb389a79b9fc
+2025-04-15 00:29:16,121 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:16,302 - rag.rag_hub - INFO - Document ajouté avec succès, ID: e75d6239-1fc7-4edc-a514-ac96ab8b0f87
+2025-04-15 00:29:16,302 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: e75d6239-1fc7-4edc-a514-ac96ab8b0f87
+2025-04-15 00:29:16,303 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:16,369 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:16,370 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:16,584 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:16,585 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:16,644 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:16,644 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:17,166 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:17,179 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:17,237 - rag.rag_hub - INFO - Document ajouté avec succès, ID: f9e77144-e08e-45fd-bc4c-8f6e142afd93
+2025-04-15 00:29:17,238 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: f9e77144-e08e-45fd-bc4c-8f6e142afd93
+2025-04-15 00:29:17,238 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:17,638 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:17,639 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:17,813 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 96b602fd-1067-4a52-8260-a5b3550cd430
+2025-04-15 00:29:17,813 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 96b602fd-1067-4a52-8260-a5b3550cd430
+2025-04-15 00:29:17,814 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:17,817 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:17,818 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:17,849 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 98620ba7-7c01-4688-b22c-1a35aafb8c22
+2025-04-15 00:29:17,849 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 98620ba7-7c01-4688-b22c-1a35aafb8c22
+2025-04-15 00:29:17,850 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:18,312 - rag.rag_hub - INFO - Document ajouté avec succès, ID: b29db1c1-044a-4db8-aa18-84c8e37b05b2
+2025-04-15 00:29:18,313 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: b29db1c1-044a-4db8-aa18-84c8e37b05b2
+2025-04-15 00:29:18,313 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:18,526 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 6cdc0d9a-63d7-4995-a5d6-ebac91e6efe0
+2025-04-15 00:29:18,526 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 6cdc0d9a-63d7-4995-a5d6-ebac91e6efe0
+2025-04-15 00:29:18,528 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:18,737 - rag.rag_hub - INFO - Document ajouté avec succès, ID: da3efa37-f293-4508-a34b-991f1555f7bd
+2025-04-15 00:29:18,738 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: da3efa37-f293-4508-a34b-991f1555f7bd
+2025-04-15 00:29:18,738 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:18,757 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:18,758 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:19,241 - rag.rag_hub - INFO - Document ajouté avec succès, ID: f58dbc93-a7bb-4b50-9863-8499f2d790a1
+2025-04-15 00:29:19,241 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: f58dbc93-a7bb-4b50-9863-8499f2d790a1
+2025-04-15 00:29:19,242 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:19,334 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:19,335 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:19,368 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:19,369 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:19,825 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:19,826 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:20,047 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:20,048 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:20,162 - rag.rag_hub - INFO - Document ajouté avec succès, ID: ff0f687d-21b9-4a16-905f-5d56b6494159
+2025-04-15 00:29:20,163 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: ff0f687d-21b9-4a16-905f-5d56b6494159
+2025-04-15 00:29:20,163 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:20,257 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:20,258 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:20,392 - rag.rag_hub - INFO - Document ajouté avec succès, ID: e9c15c76-5540-42be-9ff7-a273e66223e5
+2025-04-15 00:29:20,393 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: e9c15c76-5540-42be-9ff7-a273e66223e5
+2025-04-15 00:29:20,394 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:20,759 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:20,761 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:20,981 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 5096d40b-9cec-49e5-821b-e28c6f809131
+2025-04-15 00:29:20,981 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 5096d40b-9cec-49e5-821b-e28c6f809131
+2025-04-15 00:29:20,981 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:21,145 - rag.rag_hub - INFO - Document ajouté avec succès, ID: e8d95eef-1b88-4f0d-8f99-23e65c2f9de9
+2025-04-15 00:29:21,145 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: e8d95eef-1b88-4f0d-8f99-23e65c2f9de9
+2025-04-15 00:29:21,145 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:21,550 - rag.rag_hub - INFO - Document ajouté avec succès, ID: e331fb6c-66d4-4219-ac4c-a67ac2137dfc
+2025-04-15 00:29:21,550 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: e331fb6c-66d4-4219-ac4c-a67ac2137dfc
+2025-04-15 00:29:21,551 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:21,560 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 72485b10-c242-4f6c-9917-a9c62afccd70
+2025-04-15 00:29:21,560 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 72485b10-c242-4f6c-9917-a9c62afccd70
+2025-04-15 00:29:21,561 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:21,680 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:21,680 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:21,909 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:21,910 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:22,407 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 681b4cd8-6834-4e72-a7d5-5fb276b7acc5
+2025-04-15 00:29:22,407 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 681b4cd8-6834-4e72-a7d5-5fb276b7acc5
+2025-04-15 00:29:22,407 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:22,494 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:22,494 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:22,588 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 8e05952e-f01f-4eb0-97e3-0b9d285be7e9
+2025-04-15 00:29:22,588 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 8e05952e-f01f-4eb0-97e3-0b9d285be7e9
+2025-04-15 00:29:22,589 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:22,663 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:22,664 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:23,067 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:23,069 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:23,070 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:23,074 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:23,575 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 99471b2f-bb34-4699-97a8-63ab34cf1056
+2025-04-15 00:29:23,575 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 99471b2f-bb34-4699-97a8-63ab34cf1056
+2025-04-15 00:29:23,576 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:23,769 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 6cb5d735-b10b-496c-b597-c8dd752fa255
+2025-04-15 00:29:23,769 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 6cb5d735-b10b-496c-b597-c8dd752fa255
+2025-04-15 00:29:23,770 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:23,921 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:23,922 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:24,107 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:24,110 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:24,142 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 8de877c4-04d8-4b42-8edc-4b3b883a1acb
+2025-04-15 00:29:24,142 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 8de877c4-04d8-4b42-8edc-4b3b883a1acb
+2025-04-15 00:29:24,144 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:24,215 - rag.rag_hub - INFO - Document ajouté avec succès, ID: eeac4f47-7688-4afa-a2a6-e3e6247c0a73
+2025-04-15 00:29:24,216 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: eeac4f47-7688-4afa-a2a6-e3e6247c0a73
+2025-04-15 00:29:24,216 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:24,716 - rag.rag_hub - INFO - Document ajouté avec succès, ID: c3bead41-699f-4602-9fe3-a463ae65bc12
+2025-04-15 00:29:24,716 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: c3bead41-699f-4602-9fe3-a463ae65bc12
+2025-04-15 00:29:24,717 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:24,929 - rag.rag_hub - INFO - Document ajouté avec succès, ID: bc7b8c1c-ecff-4e65-987e-c3dd1ce64b45
+2025-04-15 00:29:24,929 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: bc7b8c1c-ecff-4e65-987e-c3dd1ce64b45
+2025-04-15 00:29:24,930 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:25,089 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:25,089 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:25,285 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:25,287 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:25,663 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:25,664 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:25,733 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:25,734 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:25,755 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 6e012e5f-7ea1-4120-8dce-22e4352b9498
+2025-04-15 00:29:25,755 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 6e012e5f-7ea1-4120-8dce-22e4352b9498
+2025-04-15 00:29:25,755 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:26,238 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:26,239 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:26,286 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 76b98445-1e7e-43e8-a2ad-634e4ebf1e53
+2025-04-15 00:29:26,287 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 76b98445-1e7e-43e8-a2ad-634e4ebf1e53
+2025-04-15 00:29:26,287 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:26,444 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:26,446 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:26,732 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 68d873bd-ac52-4968-a384-2ea075265780
+2025-04-15 00:29:26,732 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 68d873bd-ac52-4968-a384-2ea075265780
+2025-04-15 00:29:26,733 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:26,971 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 021a24e5-d7e3-4e83-b4b3-358903a44dfa
+2025-04-15 00:29:26,971 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 021a24e5-d7e3-4e83-b4b3-358903a44dfa
+2025-04-15 00:29:26,972 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:27,214 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 35662331-9b4e-4f41-9eb3-50618cb5b863
+2025-04-15 00:29:27,214 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 35662331-9b4e-4f41-9eb3-50618cb5b863
+2025-04-15 00:29:27,215 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:27,276 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:27,277 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:27,456 - rag.rag_hub - INFO - Document ajouté avec succès, ID: ed8edc91-42bd-4800-8b90-703a8578ecec
+2025-04-15 00:29:27,457 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: ed8edc91-42bd-4800-8b90-703a8578ecec
+2025-04-15 00:29:27,457 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:27,804 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:27,806 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:27,906 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 116692d4-4b37-47ce-85af-b18959cf29d1
+2025-04-15 00:29:27,906 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 116692d4-4b37-47ce-85af-b18959cf29d1
+2025-04-15 00:29:27,907 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:28,252 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:28,253 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:28,407 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 20b6b30b-0d2c-47db-a004-b3a955b01611
+2025-04-15 00:29:28,407 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 20b6b30b-0d2c-47db-a004-b3a955b01611
+2025-04-15 00:29:28,408 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:28,489 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:28,490 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:28,735 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:28,736 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:28,974 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:28,976 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:29,423 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:29,425 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:29,445 - rag.rag_hub - INFO - Document ajouté avec succès, ID: c71e2588-5f9a-4e27-987f-46a3c9c6ad69
+2025-04-15 00:29:29,445 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: c71e2588-5f9a-4e27-987f-46a3c9c6ad69
+2025-04-15 00:29:29,446 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:29,503 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 9ffb8a13-54b0-4cc3-a1ed-dd8844682fc2
+2025-04-15 00:29:29,503 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 9ffb8a13-54b0-4cc3-a1ed-dd8844682fc2
+2025-04-15 00:29:29,504 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:29,926 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:29,928 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:29,966 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 62eca5e8-24fc-4bb8-b2f0-afa798270f51
+2025-04-15 00:29:29,966 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 62eca5e8-24fc-4bb8-b2f0-afa798270f51
+2025-04-15 00:29:29,966 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:30,167 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 1d5cd24e-9c22-4f36-bb69-3eaf31d949ca
+2025-04-15 00:29:30,168 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 1d5cd24e-9c22-4f36-bb69-3eaf31d949ca
+2025-04-15 00:29:30,169 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:30,554 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 4f538683-7dd0-4c9e-a635-080c89736c46
+2025-04-15 00:29:30,555 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 4f538683-7dd0-4c9e-a635-080c89736c46
+2025-04-15 00:29:30,555 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:30,649 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 11f45dd0-1e9a-4f7e-b4b1-15eac2560e66
+2025-04-15 00:29:30,649 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 11f45dd0-1e9a-4f7e-b4b1-15eac2560e66
+2025-04-15 00:29:30,650 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:30,959 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:30,961 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:31,023 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:31,024 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:31,485 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:31,487 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:31,664 - rag.rag_hub - INFO - Document ajouté avec succès, ID: cf4108ed-ae9f-4eb0-be09-2127cccf83fb
+2025-04-15 00:29:31,665 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: cf4108ed-ae9f-4eb0-be09-2127cccf83fb
+2025-04-15 00:29:31,665 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:31,689 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:31,689 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:32,071 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:32,073 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:32,170 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:32,171 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:32,286 - rag.rag_hub - INFO - Document ajouté avec succès, ID: ce42967c-005a-4a36-9945-0fbb7a963a86
+2025-04-15 00:29:32,286 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: ce42967c-005a-4a36-9945-0fbb7a963a86
+2025-04-15 00:29:32,287 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:32,868 - rag.rag_hub - INFO - Document ajouté avec succès, ID: fe2997f2-6d00-470e-ada4-a943877c0b50
+2025-04-15 00:29:32,868 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: fe2997f2-6d00-470e-ada4-a943877c0b50
+2025-04-15 00:29:32,868 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:32,916 - rag.rag_hub - INFO - Document ajouté avec succès, ID: d7f034e8-5fcb-4225-80a1-352322174dd5
+2025-04-15 00:29:32,916 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: d7f034e8-5fcb-4225-80a1-352322174dd5
+2025-04-15 00:29:32,918 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:33,183 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:33,184 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:33,201 - rag.rag_hub - INFO - Document ajouté avec succès, ID: ebeb5c69-72d9-40a6-bdab-43f7d35c48be
+2025-04-15 00:29:33,201 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: ebeb5c69-72d9-40a6-bdab-43f7d35c48be
+2025-04-15 00:29:33,202 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:33,319 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 83c475a3-1cf5-4855-a526-9d7000156556
+2025-04-15 00:29:33,319 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 83c475a3-1cf5-4855-a526-9d7000156556
+2025-04-15 00:29:33,320 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:33,802 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:33,804 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:33,806 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 8e4b9cb7-883d-4e87-9690-ceae8cee6b6d
+2025-04-15 00:29:33,806 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 8e4b9cb7-883d-4e87-9690-ceae8cee6b6d
+2025-04-15 00:29:33,808 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:34,360 - rag.rag_hub - INFO - Document ajouté avec succès, ID: f85c2f2f-ded3-4fe2-b5fd-f38a1fb6891e
+2025-04-15 00:29:34,360 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: f85c2f2f-ded3-4fe2-b5fd-f38a1fb6891e
+2025-04-15 00:29:34,361 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002934_20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:34,389 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:34,389 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:34,436 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:34,437 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:34,715 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:34,716 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:34,839 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:34,840 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:35,320 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:35,321 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:35,488 - rag.rag_hub - INFO - Document ajouté avec succès, ID: e560b67c-1bcd-4e98-be7c-df8f95a9c138
+2025-04-15 00:29:35,489 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: e560b67c-1bcd-4e98-be7c-df8f95a9c138
+2025-04-15 00:29:35,491 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002935_20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:35,864 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 127639d1-f390-4bc7-afe9-b1e770ded912
+2025-04-15 00:29:35,864 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 127639d1-f390-4bc7-afe9-b1e770ded912
+2025-04-15 00:29:35,867 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002935_20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:35,881 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002934_20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:35,883 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002934_20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:36,241 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 3c0c5e08-de71-4a93-a76e-c42d8547fe8c
+2025-04-15 00:29:36,241 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 3c0c5e08-de71-4a93-a76e-c42d8547fe8c
+2025-04-15 00:29:36,242 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002936_20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:36,284 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 5a6d3475-986b-4990-9c39-6cacda3bedd8
+2025-04-15 00:29:36,284 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 5a6d3475-986b-4990-9c39-6cacda3bedd8
+2025-04-15 00:29:36,285 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002936_20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:36,601 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 42098f92-67d5-45f4-a182-89ed830c779a
+2025-04-15 00:29:36,601 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 42098f92-67d5-45f4-a182-89ed830c779a
+2025-04-15 00:29:36,602 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002936_20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:36,829 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 95a50c19-23cf-42e6-9451-1a1a1a3808c9
+2025-04-15 00:29:36,829 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 95a50c19-23cf-42e6-9451-1a1a1a3808c9
+2025-04-15 00:29:36,829 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002936_20250415002934_20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:37,008 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002935_20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:37,008 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002935_20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:37,384 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002935_20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:37,385 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002935_20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:37,563 - rag.rag_hub - INFO - Document ajouté avec succès, ID: c21931ea-5998-468f-84c6-ab36b960ae4d
+2025-04-15 00:29:37,563 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: c21931ea-5998-468f-84c6-ab36b960ae4d
+2025-04-15 00:29:37,563 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002937_20250415002935_20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:37,758 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002936_20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:37,759 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002936_20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:37,800 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002936_20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:37,801 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002936_20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:38,119 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002936_20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:38,120 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002936_20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:38,295 - rag.rag_hub - INFO - Document ajouté avec succès, ID: ea1152ec-a0c0-46da-b40d-3a59309e9807
+2025-04-15 00:29:38,295 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: ea1152ec-a0c0-46da-b40d-3a59309e9807
+2025-04-15 00:29:38,296 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002938_20250415002935_20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:38,351 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002936_20250415002934_20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:38,352 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002936_20250415002934_20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:38,932 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 95cca313-1d1b-4d6d-8836-6955f4da0946
+2025-04-15 00:29:38,932 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 95cca313-1d1b-4d6d-8836-6955f4da0946
+2025-04-15 00:29:38,933 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002938_20250415002936_20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:39,080 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002937_20250415002935_20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:39,080 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002937_20250415002935_20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:39,109 - rag.rag_hub - INFO - Document ajouté avec succès, ID: c2f1d281-7e83-4f41-b71c-9ec8070868ad
+2025-04-15 00:29:39,110 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: c2f1d281-7e83-4f41-b71c-9ec8070868ad
+2025-04-15 00:29:39,111 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002936_20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:39,451 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 7915b7cb-0da9-443a-ac0f-65d569edaaff
+2025-04-15 00:29:39,452 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 7915b7cb-0da9-443a-ac0f-65d569edaaff
+2025-04-15 00:29:39,452 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002936_20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:39,618 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 447f4974-6ba9-42b6-b333-adef444247e9
+2025-04-15 00:29:39,618 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 447f4974-6ba9-42b6-b333-adef444247e9
+2025-04-15 00:29:39,620 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002936_20250415002934_20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:39,806 - rag.rag_hub - INFO - Document ajouté avec succès, ID: bc0ba941-492c-40ea-abed-f73f19e97775
+2025-04-15 00:29:39,806 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: bc0ba941-492c-40ea-abed-f73f19e97775
+2025-04-15 00:29:39,807 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002937_20250415002935_20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:39,811 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002938_20250415002935_20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:39,811 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002938_20250415002935_20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:40,374 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 53068ec9-c61c-408e-a36e-2da709d0b29f
+2025-04-15 00:29:40,374 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 53068ec9-c61c-408e-a36e-2da709d0b29f
+2025-04-15 00:29:40,375 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002940_20250415002938_20250415002935_20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:40,444 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002938_20250415002936_20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:40,445 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002938_20250415002936_20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:40,628 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002936_20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:40,629 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002936_20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:40,973 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002936_20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:40,974 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002936_20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:41,139 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002936_20250415002934_20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:41,140 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002936_20250415002934_20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json
+2025-04-15 00:29:41,271 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 3a564110-2d73-4121-8b76-f97bd371565f
+2025-04-15 00:29:41,272 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 3a564110-2d73-4121-8b76-f97bd371565f
+2025-04-15 00:29:41,272 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002941_20250415002938_20250415002936_20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:41,320 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002937_20250415002935_20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:41,321 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002937_20250415002935_20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:41,760 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 7ff7e284-a5c8-4f82-8ca1-248e6fec21c3
+2025-04-15 00:29:41,760 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 7ff7e284-a5c8-4f82-8ca1-248e6fec21c3
+2025-04-15 00:29:41,762 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002941_20250415002939_20250415002936_20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:41,894 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002940_20250415002938_20250415002935_20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:41,895 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002940_20250415002938_20250415002935_20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json
+2025-04-15 00:29:42,378 - rag.rag_hub - INFO - Document ajouté avec succès, ID: f92c7734-c845-4d1b-92ab-affc5ababa62
+2025-04-15 00:29:42,378 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: f92c7734-c845-4d1b-92ab-affc5ababa62
+2025-04-15 00:29:42,379 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002942_20250415002939_20250415002936_20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:42,462 - rag.rag_hub - INFO - Document ajouté avec succès, ID: a47b5216-bb22-4548-9889-6f0f104f17c5
+2025-04-15 00:29:42,462 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: a47b5216-bb22-4548-9889-6f0f104f17c5
+2025-04-15 00:29:42,462 - ReneeRAGWatcher - ERROR - Erreur lors du déplacement du fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002936_20250415002934_20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json: [Errno 63] File name too long: '/Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002942_20250415002939_20250415002936_20250415002934_20250415002932_20250415002929_20250415002926_20250415002924_20250415002921_20250415002919_20250415002917_20250415002914_20250415002912_20250415002909_20250415002907_Guide API WordPress détaillé_.json'
+2025-04-15 00:29:42,714 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 0023d59e-f06a-46dc-9a86-09405eaa64b2
+2025-04-15 00:29:42,714 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 0023d59e-f06a-46dc-9a86-09405eaa64b2
+2025-04-15 00:29:42,714 - ReneeRAGWatcher - ERROR - Erreur lors du déplacement du fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002939_20250415002937_20250415002935_20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json: [Errno 63] File name too long: '/Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002942_20250415002939_20250415002937_20250415002935_20250415002932_20250415002929_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide Elementor _ Modifications API_.json'
+2025-04-15 00:29:42,789 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002941_20250415002938_20250415002936_20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:42,791 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002941_20250415002938_20250415002936_20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json
+2025-04-15 00:29:42,822 - rag.rag_hub - INFO - Document ajouté avec succès, ID: ad65fb55-b3b9-4b99-b589-c2152168bd8b
+2025-04-15 00:29:42,822 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: ad65fb55-b3b9-4b99-b589-c2152168bd8b
+2025-04-15 00:29:42,822 - ReneeRAGWatcher - ERROR - Erreur lors du déplacement du fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002940_20250415002938_20250415002935_20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json: [Errno 63] File name too long: '/Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002942_20250415002940_20250415002938_20250415002935_20250415002932_20250415002930_20250415002927_20250415002924_20250415002922_20250415002920_20250415002917_20250415002915_20250415002912_20250415002910_20250415002907_Guide complet_Wordpress_API.json'
+2025-04-15 00:29:43,274 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002941_20250415002939_20250415002936_20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:43,275 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002941_20250415002939_20250415002936_20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json
+2025-04-15 00:29:43,352 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 54795ab3-c4fb-4ce4-aaf9-a254293242ff
+2025-04-15 00:29:43,352 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 54795ab3-c4fb-4ce4-aaf9-a254293242ff
+2025-04-15 00:29:43,352 - ReneeRAGWatcher - ERROR - Erreur lors du déplacement du fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002941_20250415002938_20250415002936_20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json: [Errno 63] File name too long: '/Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002943_20250415002941_20250415002938_20250415002936_20250415002933_20250415002930_20250415002928_20250415002926_20250415002923_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide complet_Wordpress_API.json'
+2025-04-15 00:29:43,830 - rag.rag_hub - INFO - Document ajouté avec succès, ID: fb6a32d4-4415-4e73-b133-fad60e195e1e
+2025-04-15 00:29:43,830 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: fb6a32d4-4415-4e73-b133-fad60e195e1e
+2025-04-15 00:29:43,830 - ReneeRAGWatcher - ERROR - Erreur lors du déplacement du fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002941_20250415002939_20250415002936_20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json: [Errno 63] File name too long: '/Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002943_20250415002941_20250415002939_20250415002936_20250415002933_20250415002930_20250415002927_20250415002925_20250415002923_20250415002920_20250415002918_20250415002915_20250415002913_20250415002911_20250415002908_Guide Elementor _ Modifications API_.json'
+2025-04-15 00:29:43,894 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002942_20250415002939_20250415002936_20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:43,894 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002942_20250415002939_20250415002936_20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json
+2025-04-15 00:29:44,405 - rag.rag_hub - INFO - Document ajouté avec succès, ID: b21487bf-4041-4773-b5d4-45e0a193f5ae
+2025-04-15 00:29:44,405 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: b21487bf-4041-4773-b5d4-45e0a193f5ae
+2025-04-15 00:29:44,406 - ReneeRAGWatcher - ERROR - Erreur lors du déplacement du fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002942_20250415002939_20250415002936_20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json: [Errno 63] File name too long: '/Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415002944_20250415002942_20250415002939_20250415002936_20250415002933_20250415002931_20250415002929_20250415002926_20250415002924_20250415002921_20250415002918_20250415002916_20250415002913_20250415002911_20250415002909_Guide API WordPress détaillé_.json'
+2025-04-15 00:33:28,424 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-15 00:33:28,644 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-04-15 00:33:31,023 - rag.rag_hub - INFO - Base de données vectorielle Qdrant initialisée
+2025-04-15 00:33:31,318 - sentence_transformers.cross_encoder.CrossEncoder - WARNING - You are trying to use a model that was created with Sentence Transformers version 4.1.0.dev0, but you're currently using version 4.0.2. This might cause unexpected behavior or errors. In that case, try to update to the latest version.
+2025-04-15 00:33:32,117 - rag.rag_hub - INFO - Modèle de re-ranking chargé
+2025-04-15 00:33:33,994 - rag.rag_hub - INFO - Collection 'knowledge_base' créée dans Qdrant
+2025-04-15 00:33:33,994 - rag.rag_hub - INFO - RAGHub initialisé avec qdrant et BAAI/bge-large-en-v1.5
+2025-04-15 00:33:33,994 - ReneeRAGWatcher - INFO - Surveillance configurée pour le répertoire: /Users/pascalseppey/Desktop/ReneeRAGDocs
+2025-04-15 00:33:33,994 - ReneeRAGWatcher - INFO - Les fichiers traités seront déplacés vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed
+2025-04-15 00:33:33,994 - ReneeRAGWatcher - INFO - Démarrage de la surveillance...
+2025-04-15 00:33:34,025 - ReneeRAGWatcher - INFO - Surveillance démarrée
+2025-04-15 00:33:34,026 - ReneeRAGWatcher - ERROR - Erreur lors de la surveillance: 'RAGFileEventHandler' object has no attribute '_process_file_async'
+2025-04-15 00:33:34,026 - ReneeRAGWatcher - INFO - Surveillance arrêtée
+2025-04-15 00:34:08,848 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-15 00:34:09,033 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-04-15 00:34:11,147 - rag.rag_hub - INFO - Base de données vectorielle Qdrant initialisée
+2025-04-15 00:34:11,390 - sentence_transformers.cross_encoder.CrossEncoder - WARNING - You are trying to use a model that was created with Sentence Transformers version 4.1.0.dev0, but you're currently using version 4.0.2. This might cause unexpected behavior or errors. In that case, try to update to the latest version.
+2025-04-15 00:34:12,221 - rag.rag_hub - INFO - Modèle de re-ranking chargé
+2025-04-15 00:34:13,933 - rag.rag_hub - INFO - Collection 'knowledge_base' créée dans Qdrant
+2025-04-15 00:34:13,933 - rag.rag_hub - INFO - RAGHub initialisé avec qdrant et BAAI/bge-large-en-v1.5
+2025-04-15 00:34:13,933 - ReneeRAGWatcher - INFO - Surveillance configurée pour le répertoire: /Users/pascalseppey/Desktop/ReneeRAGDocs
+2025-04-15 00:34:13,933 - ReneeRAGWatcher - INFO - Les fichiers traités seront déplacés vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed
+2025-04-15 00:34:13,933 - ReneeRAGWatcher - INFO - Démarrage de la surveillance...
+2025-04-15 00:34:13,934 - ReneeRAGWatcher - INFO - Surveillance démarrée
+2025-04-15 00:35:55,379 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-15 00:35:55,623 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-04-15 00:35:57,413 - rag.rag_hub - INFO - Base de données vectorielle Qdrant initialisée
+2025-04-15 00:35:57,639 - sentence_transformers.cross_encoder.CrossEncoder - WARNING - You are trying to use a model that was created with Sentence Transformers version 4.1.0.dev0, but you're currently using version 4.0.2. This might cause unexpected behavior or errors. In that case, try to update to the latest version.
+2025-04-15 00:35:58,704 - rag.rag_hub - INFO - Modèle de re-ranking chargé
+2025-04-15 00:35:58,931 - rag.rag_hub - INFO - Collection 'knowledge_base' créée dans Qdrant
+2025-04-15 00:35:58,931 - rag.rag_hub - INFO - RAGHub initialisé avec qdrant et BAAI/bge-large-en-v1.5
+2025-04-15 00:35:58,931 - ReneeRAGWatcher - INFO - Surveillance configurée pour le répertoire: /Users/pascalseppey/Desktop/ReneeRAGDocs
+2025-04-15 00:35:58,931 - ReneeRAGWatcher - INFO - Les fichiers traités seront déplacés vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed
+2025-04-15 00:35:58,931 - ReneeRAGWatcher - INFO - Démarrage de la surveillance...
+2025-04-15 00:35:58,932 - ReneeRAGWatcher - INFO - Surveillance démarrée
+2025-04-15 00:37:41,350 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-15 00:37:41,562 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-04-15 00:37:43,596 - rag.rag_hub - INFO - Base de données vectorielle Qdrant initialisée
+2025-04-15 00:37:43,825 - sentence_transformers.cross_encoder.CrossEncoder - WARNING - You are trying to use a model that was created with Sentence Transformers version 4.1.0.dev0, but you're currently using version 4.0.2. This might cause unexpected behavior or errors. In that case, try to update to the latest version.
+2025-04-15 00:37:44,597 - rag.rag_hub - INFO - Modèle de re-ranking chargé
+2025-04-15 00:37:45,894 - rag.rag_hub - INFO - Collection 'knowledge_base' créée dans Qdrant
+2025-04-15 00:37:45,895 - rag.rag_hub - INFO - RAGHub initialisé avec qdrant et BAAI/bge-large-en-v1.5
+2025-04-15 00:37:45,895 - ReneeRAGWatcher - INFO - Surveillance configurée pour le répertoire: /Users/pascalseppey/Desktop/ReneeRAGDocs
+2025-04-15 00:37:45,895 - ReneeRAGWatcher - INFO - Les fichiers traités seront déplacés vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed
+2025-04-15 00:37:45,895 - ReneeRAGWatcher - INFO - Démarrage de la surveillance...
+2025-04-15 00:37:45,895 - ReneeRAGWatcher - INFO - Surveillance démarrée
+2025-04-15 00:37:45,895 - ReneeRAGWatcher - INFO - Traitement du fichier existant: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt
+2025-04-15 00:37:45,895 - ReneeRAGWatcher - ERROR - Erreur lors du traitement du fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt: 'RAGFileEventHandler' object has no attribute '_process_text'
+2025-04-15 00:37:45,896 - ReneeRAGWatcher - INFO - Traitement du fichier existant: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt
+2025-04-15 00:37:45,896 - ReneeRAGWatcher - ERROR - Erreur lors du traitement du fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt: 'RAGFileEventHandler' object has no attribute '_process_text'
+2025-04-15 00:37:45,896 - ReneeRAGWatcher - INFO - Traitement du fichier existant: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt
+2025-04-15 00:37:45,896 - ReneeRAGWatcher - ERROR - Erreur lors du traitement du fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt: 'RAGFileEventHandler' object has no attribute '_process_text'
+2025-04-15 00:38:27,000 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-15 00:38:27,182 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-04-15 00:38:29,058 - rag.rag_hub - INFO - Base de données vectorielle Qdrant initialisée
+2025-04-15 00:38:29,290 - sentence_transformers.cross_encoder.CrossEncoder - WARNING - You are trying to use a model that was created with Sentence Transformers version 4.1.0.dev0, but you're currently using version 4.0.2. This might cause unexpected behavior or errors. In that case, try to update to the latest version.
+2025-04-15 00:38:30,058 - rag.rag_hub - INFO - Modèle de re-ranking chargé
+2025-04-15 00:38:30,215 - rag.rag_hub - INFO - Collection 'knowledge_base' créée dans Qdrant
+2025-04-15 00:38:30,216 - rag.rag_hub - INFO - RAGHub initialisé avec qdrant et BAAI/bge-large-en-v1.5
+2025-04-15 00:38:30,216 - ReneeRAGWatcher - INFO - Surveillance configurée pour le répertoire: /Users/pascalseppey/Desktop/ReneeRAGDocs
+2025-04-15 00:38:30,216 - ReneeRAGWatcher - INFO - Les fichiers traités seront déplacés vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed
+2025-04-15 00:38:30,216 - ReneeRAGWatcher - INFO - Démarrage de la surveillance...
+2025-04-15 00:38:30,216 - ReneeRAGWatcher - INFO - Surveillance démarrée
+2025-04-15 00:38:30,219 - ReneeRAGWatcher - INFO - Traitement du fichier existant: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt
+2025-04-15 00:38:30,336 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:38:30,372 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:38:30,403 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:38:30,403 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:38:30,404 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt ouvert avec l'encodage latin-1
+2025-04-15 00:38:30,405 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.json
+2025-04-15 00:38:30,415 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.json
+2025-04-15 00:38:30,416 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.json
+2025-04-15 00:38:31,196 - rag.rag_hub - INFO - Document ajouté avec succès, ID: b33a32df-45c6-4f6d-8fcb-b3321bffdc18
+2025-04-15 00:38:31,197 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: b33a32df-45c6-4f6d-8fcb-b3321bffdc18
+2025-04-15 00:38:31,197 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: b33a32df-45c6-4f6d-8fcb-b3321bffdc18
+2025-04-15 00:38:31,197 - ReneeRAGWatcher - ERROR - Impossible d'ajouter le document au RAG: 'str' object has no attribute 'mkdir'
+2025-04-15 00:38:31,288 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 7cb1d2ef-3522-4180-a5d8-e6602ad2de3f
+2025-04-15 00:38:31,288 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 7cb1d2ef-3522-4180-a5d8-e6602ad2de3f
+2025-04-15 00:38:31,288 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 7cb1d2ef-3522-4180-a5d8-e6602ad2de3f
+2025-04-15 00:38:31,288 - ReneeRAGWatcher - ERROR - Impossible d'ajouter le document au RAG: 'str' object has no attribute 'mkdir'
+2025-04-15 00:38:31,288 - ReneeRAGWatcher - INFO - Traitement du fichier existant: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt
+2025-04-15 00:38:31,289 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt ouvert avec l'encodage latin-1
+2025-04-15 00:38:31,290 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.json
+2025-04-15 00:38:31,300 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.json
+2025-04-15 00:38:31,301 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.json
+2025-04-15 00:38:31,929 - rag.rag_hub - INFO - Document ajouté avec succès, ID: c43559ee-18d7-44b0-82b7-928860c362a1
+2025-04-15 00:38:31,929 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: c43559ee-18d7-44b0-82b7-928860c362a1
+2025-04-15 00:38:31,929 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: c43559ee-18d7-44b0-82b7-928860c362a1
+2025-04-15 00:38:31,929 - ReneeRAGWatcher - ERROR - Impossible d'ajouter le document au RAG: 'str' object has no attribute 'mkdir'
+2025-04-15 00:38:32,131 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 2f3f6505-e36a-4bc1-b91e-a065be525dbd
+2025-04-15 00:38:32,131 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 2f3f6505-e36a-4bc1-b91e-a065be525dbd
+2025-04-15 00:38:32,131 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 2f3f6505-e36a-4bc1-b91e-a065be525dbd
+2025-04-15 00:38:32,131 - ReneeRAGWatcher - ERROR - Impossible d'ajouter le document au RAG: 'str' object has no attribute 'mkdir'
+2025-04-15 00:38:32,131 - ReneeRAGWatcher - INFO - Traitement du fichier existant: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt
+2025-04-15 00:38:32,132 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt ouvert avec l'encodage latin-1
+2025-04-15 00:38:32,132 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:38:32,143 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:38:32,144 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:38:32,868 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 59849253-f084-4f8b-adc4-8ae6a77228d6
+2025-04-15 00:38:32,868 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 59849253-f084-4f8b-adc4-8ae6a77228d6
+2025-04-15 00:38:32,868 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 59849253-f084-4f8b-adc4-8ae6a77228d6
+2025-04-15 00:38:32,868 - ReneeRAGWatcher - ERROR - Impossible d'ajouter le document au RAG: 'str' object has no attribute 'mkdir'
+2025-04-15 00:38:32,943 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 3c29e205-5807-4b8f-8b67-73aec2e0b408
+2025-04-15 00:38:32,943 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 3c29e205-5807-4b8f-8b67-73aec2e0b408
+2025-04-15 00:38:32,943 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 3c29e205-5807-4b8f-8b67-73aec2e0b408
+2025-04-15 00:38:32,943 - ReneeRAGWatcher - ERROR - Impossible d'ajouter le document au RAG: 'str' object has no attribute 'mkdir'
+2025-04-15 00:39:10,963 - datasets - INFO - PyTorch version 2.6.0 available.
+2025-04-15 00:39:11,162 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-04-15 00:39:13,145 - rag.rag_hub - INFO - Base de données vectorielle Qdrant initialisée
+2025-04-15 00:39:13,375 - sentence_transformers.cross_encoder.CrossEncoder - WARNING - You are trying to use a model that was created with Sentence Transformers version 4.1.0.dev0, but you're currently using version 4.0.2. This might cause unexpected behavior or errors. In that case, try to update to the latest version.
+2025-04-15 00:39:14,181 - rag.rag_hub - INFO - Modèle de re-ranking chargé
+2025-04-15 00:39:14,345 - rag.rag_hub - INFO - Collection 'knowledge_base' créée dans Qdrant
+2025-04-15 00:39:14,345 - rag.rag_hub - INFO - RAGHub initialisé avec qdrant et BAAI/bge-large-en-v1.5
+2025-04-15 00:39:14,346 - ReneeRAGWatcher - INFO - Surveillance configurée pour le répertoire: /Users/pascalseppey/Desktop/ReneeRAGDocs
+2025-04-15 00:39:14,346 - ReneeRAGWatcher - INFO - Les fichiers traités seront déplacés vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed
+2025-04-15 00:39:14,346 - ReneeRAGWatcher - INFO - Démarrage de la surveillance...
+2025-04-15 00:39:14,346 - ReneeRAGWatcher - INFO - Surveillance démarrée
+2025-04-15 00:39:14,347 - ReneeRAGWatcher - INFO - Traitement du fichier existant: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:39:14,467 - ReneeRAGWatcher - INFO - Module PyPDF chargé
+2025-04-15 00:39:14,505 - ReneeRAGWatcher - INFO - Module python-docx chargé
+2025-04-15 00:39:14,532 - ReneeRAGWatcher - INFO - Module BeautifulSoup chargé
+2025-04-15 00:39:14,533 - ReneeRAGWatcher - INFO - Module pandas chargé
+2025-04-15 00:39:14,534 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:39:15,034 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 987107b2-ebe6-4c96-8af1-778acd227938
+2025-04-15 00:39:15,034 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 987107b2-ebe6-4c96-8af1-778acd227938
+2025-04-15 00:39:15,034 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 987107b2-ebe6-4c96-8af1-778acd227938
+2025-04-15 00:39:15,034 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415003915_Guide Elementor _ Modifications API_.json
+2025-04-15 00:39:15,034 - ReneeRAGWatcher - INFO - Traitement du fichier existant: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt
+2025-04-15 00:39:15,036 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.txt ouvert avec l'encodage latin-1
+2025-04-15 00:39:15,036 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide complet_Wordpress_API.json
+2025-04-15 00:39:15,530 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 66f2bad7-79e9-4f1e-bab6-04c76af51ac3
+2025-04-15 00:39:15,530 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 66f2bad7-79e9-4f1e-bab6-04c76af51ac3
+2025-04-15 00:39:15,530 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 66f2bad7-79e9-4f1e-bab6-04c76af51ac3
+2025-04-15 00:39:15,530 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415003915_Guide complet_Wordpress_API.txt
+2025-04-15 00:39:15,530 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415003915_Guide complet_Wordpress_API.json
+2025-04-15 00:39:15,530 - ReneeRAGWatcher - INFO - Traitement du fichier existant: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt
+2025-04-15 00:39:15,531 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.txt ouvert avec l'encodage latin-1
+2025-04-15 00:39:15,532 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide API WordPress détaillé_.json
+2025-04-15 00:39:16,002 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 427a528c-5589-43f6-8571-96ccbb56829c
+2025-04-15 00:39:16,002 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 427a528c-5589-43f6-8571-96ccbb56829c
+2025-04-15 00:39:16,002 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 427a528c-5589-43f6-8571-96ccbb56829c
+2025-04-15 00:39:16,002 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415003916_Guide API WordPress détaillé_.txt
+2025-04-15 00:39:16,002 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415003916_Guide API WordPress détaillé_.json
+2025-04-15 00:39:16,003 - ReneeRAGWatcher - INFO - Traitement du fichier existant: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt
+2025-04-15 00:39:16,003 - ReneeRAGWatcher - INFO - Fichier /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.txt ouvert avec l'encodage latin-1
+2025-04-15 00:39:16,004 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:39:16,014 - ReneeRAGWatcher - INFO - Traitement du fichier: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:39:16,014 - ReneeRAGWatcher - INFO - Document converti et sauvegardé en JSON: /Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json
+2025-04-15 00:39:16,796 - rag.rag_hub - INFO - Document ajouté avec succès, ID: 88d42b9a-2df0-414e-a115-5635adf3bbae
+2025-04-15 00:39:16,796 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 88d42b9a-2df0-414e-a115-5635adf3bbae
+2025-04-15 00:39:16,796 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: 88d42b9a-2df0-414e-a115-5635adf3bbae
+2025-04-15 00:39:16,797 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415003916_Guide Elementor _ Modifications API_.txt
+2025-04-15 00:39:16,797 - ReneeRAGWatcher - INFO - Fichier déplacé vers: /Users/pascalseppey/Desktop/ReneeRAGDocs/processed/20250415003916_Guide Elementor _ Modifications API_.json
+2025-04-15 00:39:16,805 - rag.rag_hub - INFO - Document ajouté avec succès, ID: c68012f4-704d-44ce-9e9b-18cc7fe95de8
+2025-04-15 00:39:16,805 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: c68012f4-704d-44ce-9e9b-18cc7fe95de8
+2025-04-15 00:39:16,805 - ReneeRAGWatcher - INFO - Document ajouté au RAG avec ID: c68012f4-704d-44ce-9e9b-18cc7fe95de8
+2025-04-15 00:39:16,805 - ReneeRAGWatcher - ERROR - Impossible d'ajouter le document au RAG: [Errno 2] No such file or directory: '/Users/pascalseppey/Desktop/ReneeRAGDocs/Guide Elementor _ Modifications API_.json'

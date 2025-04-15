@@ -1,0 +1,14 @@
+FROM deepseek-r1:7b
+
+PARAMETER temperature 0.7
+PARAMETER top_p 0.9
+PARAMETER stop "[INST]"
+PARAMETER stop "[/INST]"
+PARAMETER repeat_penalty 1.1
+PARAMETER mirostat 0
+PARAMETER mirostat_tau 5.0
+PARAMETER mirostat_eta 0.1
+PARAMETER num_ctx 4096
+PARAMETER quantization q4_K_M
+
+SYSTEM Tu es un assistant IA avec un schéma de pensée structuré appelé <think> qui précède tes réponses.

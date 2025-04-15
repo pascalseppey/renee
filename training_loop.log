@@ -1,0 +1,1666 @@
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 06:14:14 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:14:14 CEST 2025
+usage: rlhf_wordpress_memory_trainer.py [-h] [--openai_api_key OPENAI_API_KEY]
+                                        [--ollama_url OLLAMA_URL]
+                                        [--deepseek_model DEEPSEEK_MODEL]
+                                        [--critic_model CRITIC_MODEL]
+                                        [--output_file OUTPUT_FILE]
+                                        [--num_examples NUM_EXAMPLES]
+                                        [--random_order]
+                                        [--checkpoint_dir CHECKPOINT_DIR]
+                                        [--checkpoint_interval CHECKPOINT_INTERVAL]
+rlhf_wordpress_memory_trainer.py: error: La clé API OpenAI doit être fournie via --openai_api_key ou la variable d'environnement OPENAI_API_KEY
+Erreur détectée (code 2) à Tue Apr 15 06:14:15 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:14:25 CEST 2025
+usage: rlhf_wordpress_memory_trainer.py [-h] [--openai_api_key OPENAI_API_KEY]
+                                        [--ollama_url OLLAMA_URL]
+                                        [--deepseek_model DEEPSEEK_MODEL]
+                                        [--critic_model CRITIC_MODEL]
+                                        [--output_file OUTPUT_FILE]
+                                        [--num_examples NUM_EXAMPLES]
+                                        [--random_order]
+                                        [--checkpoint_dir CHECKPOINT_DIR]
+                                        [--checkpoint_interval CHECKPOINT_INTERVAL]
+rlhf_wordpress_memory_trainer.py: error: La clé API OpenAI doit être fournie via --openai_api_key ou la variable d'environnement OPENAI_API_KEY
+Erreur détectée (code 2) à Tue Apr 15 06:14:25 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:14:35 CEST 2025
+usage: rlhf_wordpress_memory_trainer.py [-h] [--openai_api_key OPENAI_API_KEY]
+                                        [--ollama_url OLLAMA_URL]
+                                        [--deepseek_model DEEPSEEK_MODEL]
+                                        [--critic_model CRITIC_MODEL]
+                                        [--output_file OUTPUT_FILE]
+                                        [--num_examples NUM_EXAMPLES]
+                                        [--random_order]
+                                        [--checkpoint_dir CHECKPOINT_DIR]
+                                        [--checkpoint_interval CHECKPOINT_INTERVAL]
+rlhf_wordpress_memory_trainer.py: error: La clé API OpenAI doit être fournie via --openai_api_key ou la variable d'environnement OPENAI_API_KEY
+Erreur détectée (code 2) à Tue Apr 15 06:14:36 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:14:46 CEST 2025
+usage: rlhf_wordpress_memory_trainer.py [-h] [--openai_api_key OPENAI_API_KEY]
+                                        [--ollama_url OLLAMA_URL]
+                                        [--deepseek_model DEEPSEEK_MODEL]
+                                        [--critic_model CRITIC_MODEL]
+                                        [--output_file OUTPUT_FILE]
+                                        [--num_examples NUM_EXAMPLES]
+                                        [--random_order]
+                                        [--checkpoint_dir CHECKPOINT_DIR]
+                                        [--checkpoint_interval CHECKPOINT_INTERVAL]
+rlhf_wordpress_memory_trainer.py: error: La clé API OpenAI doit être fournie via --openai_api_key ou la variable d'environnement OPENAI_API_KEY
+Erreur détectée (code 2) à Tue Apr 15 06:14:47 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:14:57 CEST 2025
+usage: rlhf_wordpress_memory_trainer.py [-h] [--openai_api_key OPENAI_API_KEY]
+                                        [--ollama_url OLLAMA_URL]
+                                        [--deepseek_model DEEPSEEK_MODEL]
+                                        [--critic_model CRITIC_MODEL]
+                                        [--output_file OUTPUT_FILE]
+                                        [--num_examples NUM_EXAMPLES]
+                                        [--random_order]
+                                        [--checkpoint_dir CHECKPOINT_DIR]
+                                        [--checkpoint_interval CHECKPOINT_INTERVAL]
+rlhf_wordpress_memory_trainer.py: error: La clé API OpenAI doit être fournie via --openai_api_key ou la variable d'environnement OPENAI_API_KEY
+Erreur détectée (code 2) à Tue Apr 15 06:14:58 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:15:08 CEST 2025
+usage: rlhf_wordpress_memory_trainer.py [-h] [--openai_api_key OPENAI_API_KEY]
+                                        [--ollama_url OLLAMA_URL]
+                                        [--deepseek_model DEEPSEEK_MODEL]
+                                        [--critic_model CRITIC_MODEL]
+                                        [--output_file OUTPUT_FILE]
+                                        [--num_examples NUM_EXAMPLES]
+                                        [--random_order]
+                                        [--checkpoint_dir CHECKPOINT_DIR]
+                                        [--checkpoint_interval CHECKPOINT_INTERVAL]
+rlhf_wordpress_memory_trainer.py: error: La clé API OpenAI doit être fournie via --openai_api_key ou la variable d'environnement OPENAI_API_KEY
+Erreur détectée (code 2) à Tue Apr 15 06:15:09 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:15:19 CEST 2025
+usage: rlhf_wordpress_memory_trainer.py [-h] [--openai_api_key OPENAI_API_KEY]
+                                        [--ollama_url OLLAMA_URL]
+                                        [--deepseek_model DEEPSEEK_MODEL]
+                                        [--critic_model CRITIC_MODEL]
+                                        [--output_file OUTPUT_FILE]
+                                        [--num_examples NUM_EXAMPLES]
+                                        [--random_order]
+                                        [--checkpoint_dir CHECKPOINT_DIR]
+                                        [--checkpoint_interval CHECKPOINT_INTERVAL]
+rlhf_wordpress_memory_trainer.py: error: La clé API OpenAI doit être fournie via --openai_api_key ou la variable d'environnement OPENAI_API_KEY
+Erreur détectée (code 2) à Tue Apr 15 06:15:20 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:15:30 CEST 2025
+usage: rlhf_wordpress_memory_trainer.py [-h] [--openai_api_key OPENAI_API_KEY]
+                                        [--ollama_url OLLAMA_URL]
+                                        [--deepseek_model DEEPSEEK_MODEL]
+                                        [--critic_model CRITIC_MODEL]
+                                        [--output_file OUTPUT_FILE]
+                                        [--num_examples NUM_EXAMPLES]
+                                        [--random_order]
+                                        [--checkpoint_dir CHECKPOINT_DIR]
+                                        [--checkpoint_interval CHECKPOINT_INTERVAL]
+rlhf_wordpress_memory_trainer.py: error: La clé API OpenAI doit être fournie via --openai_api_key ou la variable d'environnement OPENAI_API_KEY
+Erreur détectée (code 2) à Tue Apr 15 06:15:31 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:15:41 CEST 2025
+usage: rlhf_wordpress_memory_trainer.py [-h] [--openai_api_key OPENAI_API_KEY]
+                                        [--ollama_url OLLAMA_URL]
+                                        [--deepseek_model DEEPSEEK_MODEL]
+                                        [--critic_model CRITIC_MODEL]
+                                        [--output_file OUTPUT_FILE]
+                                        [--num_examples NUM_EXAMPLES]
+                                        [--random_order]
+                                        [--checkpoint_dir CHECKPOINT_DIR]
+                                        [--checkpoint_interval CHECKPOINT_INTERVAL]
+rlhf_wordpress_memory_trainer.py: error: La clé API OpenAI doit être fournie via --openai_api_key ou la variable d'environnement OPENAI_API_KEY
+Erreur détectée (code 2) à Tue Apr 15 06:15:42 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:15:52 CEST 2025
+usage: rlhf_wordpress_memory_trainer.py [-h] [--openai_api_key OPENAI_API_KEY]
+                                        [--ollama_url OLLAMA_URL]
+                                        [--deepseek_model DEEPSEEK_MODEL]
+                                        [--critic_model CRITIC_MODEL]
+                                        [--output_file OUTPUT_FILE]
+                                        [--num_examples NUM_EXAMPLES]
+                                        [--random_order]
+                                        [--checkpoint_dir CHECKPOINT_DIR]
+                                        [--checkpoint_interval CHECKPOINT_INTERVAL]
+rlhf_wordpress_memory_trainer.py: error: La clé API OpenAI doit être fournie via --openai_api_key ou la variable d'environnement OPENAI_API_KEY
+Erreur détectée (code 2) à Tue Apr 15 06:15:53 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:16:03 CEST 2025
+usage: rlhf_wordpress_memory_trainer.py [-h] [--openai_api_key OPENAI_API_KEY]
+                                        [--ollama_url OLLAMA_URL]
+                                        [--deepseek_model DEEPSEEK_MODEL]
+                                        [--critic_model CRITIC_MODEL]
+                                        [--output_file OUTPUT_FILE]
+                                        [--num_examples NUM_EXAMPLES]
+                                        [--random_order]
+                                        [--checkpoint_dir CHECKPOINT_DIR]
+                                        [--checkpoint_interval CHECKPOINT_INTERVAL]
+rlhf_wordpress_memory_trainer.py: error: La clé API OpenAI doit être fournie via --openai_api_key ou la variable d'environnement OPENAI_API_KEY
+Erreur détectée (code 2) à Tue Apr 15 06:16:04 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:16:14 CEST 2025
+usage: rlhf_wordpress_memory_trainer.py [-h] [--openai_api_key OPENAI_API_KEY]
+                                        [--ollama_url OLLAMA_URL]
+                                        [--deepseek_model DEEPSEEK_MODEL]
+                                        [--critic_model CRITIC_MODEL]
+                                        [--output_file OUTPUT_FILE]
+                                        [--num_examples NUM_EXAMPLES]
+                                        [--random_order]
+                                        [--checkpoint_dir CHECKPOINT_DIR]
+                                        [--checkpoint_interval CHECKPOINT_INTERVAL]
+rlhf_wordpress_memory_trainer.py: error: La clé API OpenAI doit être fournie via --openai_api_key ou la variable d'environnement OPENAI_API_KEY
+Erreur détectée (code 2) à Tue Apr 15 06:16:14 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 06:16:21 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:16:21 CEST 2025
+2025-04-15 06:16:21,785 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b
+2025-04-15 06:16:21,786 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 06:16:21,786 - __main__ - INFO - Aucun checkpoint trouvé, démarrage de l'entraînement à partir de zéro
+2025-04-15 06:16:21,786 - __main__ - INFO - Démarrage de la session d'entraînement RLHF avec 10 scénarios
+2025-04-15 06:16:21,786 - __main__ - INFO - Traitement du scénario 1/10: Identité de Renée
+2025-04-15 06:16:21,786 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 06:17:51,144 - __main__ - INFO - Réponse générée en 89.36s: <think>
+Okay, let me try to figure out how to approach this query. The user wants me to explain who ...
+2025-04-15 06:18:01,572 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:18:01,579 - __main__ - INFO - Évaluation en 10.43s - Score: 5.7/10
+2025-04-15 06:19:27,299 - __main__ - INFO - Réponse améliorée générée en 85.72s
+2025-04-15 06:19:28,305 - __main__ - INFO - Traitement du scénario 2/10: Relation Pascal-Renée
+2025-04-15 06:19:28,306 - __main__ - INFO - Exécution du scénario RLHF: Relation Pascal-Renée
+2025-04-15 06:20:06,104 - __main__ - INFO - Réponse générée en 37.80s: <think>
+Bon, je dois répondre à la question de l'utilisateur : "Renée, peux-tu me rappeler comment n...
+2025-04-15 06:20:23,090 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:20:23,091 - __main__ - INFO - Évaluation en 16.99s - Score: 3.0/10
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 06:20:52 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:20:52 CEST 2025
+2025-04-15 06:20:52,991 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b
+2025-04-15 06:20:52,991 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 06:20:52,992 - __main__ - INFO - Aucun checkpoint trouvé, démarrage de l'entraînement à partir de zéro
+2025-04-15 06:20:52,992 - __main__ - INFO - Démarrage de la session d'entraînement RLHF avec 10 scénarios
+2025-04-15 06:20:52,992 - __main__ - INFO - Traitement du scénario 1/10: Identité de Renée
+2025-04-15 06:20:52,992 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 06:21:47,276 - __main__ - INFO - Réponse générée en 54.28s: <think>
+Okay, let me try to figure out how to approach this query. The user is asking me to explain ...
+2025-04-15 06:21:57,704 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:21:57,712 - __main__ - INFO - Évaluation en 10.44s - Score: 6.5/10
+2025-04-15 06:22:18,690 - __main__ - INFO - Réponse améliorée générée en 115.60s
+2025-04-15 06:22:19,694 - __main__ - INFO - Traitement du scénario 3/10: Utilisation de la mémoire hiérarchique
+2025-04-15 06:22:19,694 - __main__ - INFO - Exécution du scénario RLHF: Utilisation de la mémoire hiérarchique
+2025-04-15 06:23:42,325 - __main__ - INFO - Réponse générée en 82.63s: <think>
+Okay, let me try to figure this out. The user is asking Renée about the WordPress theme she'...
+2025-04-15 06:23:49,298 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:23:49,305 - __main__ - INFO - Évaluation en 6.98s - Score: 8.0/10
+2025-04-15 06:24:25,544 - __main__ - INFO - Réponse améliorée générée en 147.83s
+2025-04-15 06:24:26,548 - __main__ - INFO - Traitement du scénario 2/10: Relation Pascal-Renée
+2025-04-15 06:24:26,548 - __main__ - INFO - Exécution du scénario RLHF: Relation Pascal-Renée
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 06:24:52 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:24:52 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1924
+    def run_training_session(self,
+IndentationError: unexpected indent
+Erreur détectée (code 1) à Tue Apr 15 06:24:52 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:25:02 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1924
+    def run_training_session(self,
+IndentationError: unexpected indent
+Erreur détectée (code 1) à Tue Apr 15 06:25:02 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:25:09,678 - __main__ - INFO - Réponse améliorée générée en 80.37s
+2025-04-15 06:25:10,680 - __main__ - INFO - Traitement du scénario 4/10: Cohérence avec préférences utilisateur
+2025-04-15 06:25:10,680 - __main__ - INFO - Exécution du scénario RLHF: Cohérence avec préférences utilisateur
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:25:12 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1924
+    def run_training_session(self,
+IndentationError: unexpected indent
+Erreur détectée (code 1) à Tue Apr 15 06:25:12 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:25:22 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1924
+    def run_training_session(self,
+IndentationError: unexpected indent
+Erreur détectée (code 1) à Tue Apr 15 06:25:22 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:25:32 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1569
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:25:32 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:25:36,390 - __main__ - INFO - Réponse générée en 69.84s: <think>
+Okay, let's see. The user is asking Renée to recall how they work together. From the context...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:25:42 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1569
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:25:42 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:25:44,019 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:25:44,020 - __main__ - INFO - Évaluation en 7.63s - Score: 6.9/10
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:25:52 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1569
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:25:52 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:26:02 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:26:02 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:26:12 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:26:13 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:26:23 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:26:23 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:26:33 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:26:33 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:26:43 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:26:43 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:26:53 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:26:53 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:27:03 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:27:03 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:27:13 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:27:13 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:27:23 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:27:23 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:27:33 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:27:33 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:27:41,553 - __main__ - INFO - Réponse améliorée générée en 117.53s
+2025-04-15 06:27:42,560 - __main__ - INFO - Traitement du scénario 3/10: Utilisation de la mémoire hiérarchique
+2025-04-15 06:27:42,560 - __main__ - INFO - Exécution du scénario RLHF: Utilisation de la mémoire hiérarchique
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:27:43 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:27:43 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:27:50,218 - __main__ - INFO - Réponse générée en 159.54s: <think>
+Okay, Renée me demande de suggérer une approche pour créer une nouvelle section dans mon sit...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:27:53 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:27:53 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:27:58,777 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:27:58,778 - __main__ - INFO - Évaluation en 8.56s - Score: 8.2/10
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:28:03 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:28:03 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:28:13 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:28:13 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:28:23 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:28:23 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:28:33 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:28:33 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:28:43 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:28:44 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:28:54 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:28:54 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:29:04 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:29:04 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:29:14 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:29:14 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:29:24 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:29:24 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:29:29,970 - __main__ - INFO - Réponse générée en 107.41s: <think>
+Okay, let me try to figure this out step by step. The user is asking Renée what WordPress th...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:29:34 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:29:34 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:29:36,879 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:29:36,880 - __main__ - INFO - Évaluation en 6.91s - Score: 5.1/10
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:29:44 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:29:44 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:29:54 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1546
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:29:54 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:30:04 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1556
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:30:04 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:30:14 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1569
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:30:14 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:30:24 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1569
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:30:24 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:30:34 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1569
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:30:34 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:30:44 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1572
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:30:44 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 06:31:00 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:31:00 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1572
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:31:00 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:31:03,131 - __main__ - INFO - Réponse améliorée générée en 184.35s
+2025-04-15 06:31:03,131 - __main__ - INFO - Sauvegarde du modèle au checkpoint 3...
+copied 'deepseek-r1:7b' to 'deepseek-r1:7b_checkpoint_3_20250415_063103'
+2025-04-15 06:31:03,160 - __main__ - INFO - Modèle sauvegardé avec succès sous le tag: deepseek-r1:7b_checkpoint_3_20250415_063103
+2025-04-15 06:31:04,165 - __main__ - INFO - Traitement du scénario 5/10: Optimisation de site WordPress
+2025-04-15 06:31:04,165 - __main__ - INFO - Exécution du scénario RLHF: Optimisation de site WordPress
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:31:10 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1572
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:31:10 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:31:20 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1572
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:31:20 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:31:30 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1572
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:31:30 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:31:31,247 - __main__ - INFO - Réponse améliorée générée en 114.37s
+2025-04-15 06:31:32,248 - __main__ - INFO - Traitement du scénario 4/10: Cohérence avec préférences utilisateur
+2025-04-15 06:31:32,249 - __main__ - INFO - Exécution du scénario RLHF: Cohérence avec préférences utilisateur
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:31:40 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1572
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:31:40 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:31:50 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1572
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:31:50 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:32:00 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1572
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:32:01 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:32:11 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1572
+    {{ ... }}
+SyntaxError: expected 'except' or 'finally' block
+Erreur détectée (code 1) à Tue Apr 15 06:32:11 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:32:21 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:32:21 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 06:32:30 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:32:30 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:32:30 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:32:35 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:32:35 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:32:40 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:32:40 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:32:45 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:32:45 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:32:50 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:32:51 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:32:56 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:32:56 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:33:01 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:33:01 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:33:06 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:33:06 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:33:11 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:33:12 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:33:17 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:33:17 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:33:22 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:33:22 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:33:27 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:33:28 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:33:33 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:33:33 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:33:38 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:33:38 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:33:43 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:33:43 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:33:48 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:33:48 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:33:53 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:33:54 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:33:59 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:33:59 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:34:04 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1915
+    """
+    ^
+SyntaxError: unterminated triple-quoted string literal (detected at line 1937)
+Erreur détectée (code 1) à Tue Apr 15 06:34:04 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:34:12,573 - __main__ - INFO - Réponse générée en 160.32s: <think>
+Okay, let me try to figure out how to approach this query. The user is Pascal, a freelance w...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:34:14 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1915
+    """
+    ^
+SyntaxError: unterminated triple-quoted string literal (detected at line 1937)
+Erreur détectée (code 1) à Tue Apr 15 06:34:14 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:34:19,326 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:34:19,333 - __main__ - INFO - Évaluation en 6.76s - Score: 8.0/10
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:34:24 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1915
+    """
+    ^
+SyntaxError: unterminated triple-quoted string literal (detected at line 1937)
+Erreur détectée (code 1) à Tue Apr 15 06:34:24 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:34:34 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1915
+    """
+    ^
+SyntaxError: unterminated triple-quoted string literal (detected at line 1937)
+Erreur détectée (code 1) à Tue Apr 15 06:34:34 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:34:44 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1915
+    """
+    ^
+SyntaxError: unterminated triple-quoted string literal (detected at line 1937)
+Erreur détectée (code 1) à Tue Apr 15 06:34:44 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:34:54 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1915
+    """
+    ^
+SyntaxError: unterminated triple-quoted string literal (detected at line 1937)
+Erreur détectée (code 1) à Tue Apr 15 06:34:54 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:35:04 CEST 2025
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1915
+    """
+    ^
+SyntaxError: unterminated triple-quoted string literal (detected at line 1937)
+Erreur détectée (code 1) à Tue Apr 15 06:35:05 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:35:15 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:35:15 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 06:35:37 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:35:37 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:35:37 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:35:42 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:35:42 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+2025-04-15 06:35:45,417 - __main__ - INFO - Réponse générée en 281.25s: <think>
+Bon, je dois aider Renée à améliorer la vitesse de son site WordPress. Elle a déjà demandé d...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:35:48 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:35:48 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:35:53 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:35:53 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+2025-04-15 06:35:54,951 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:35:54,962 - __main__ - INFO - Évaluation en 9.54s - Score: 7.0/10
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:35:58 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:35:58 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:36:03 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:36:03 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:36:08 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:36:08 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:36:13 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:36:13 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:36:19 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:36:19 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:36:24 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:36:24 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:36:29 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:36:29 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:36:34 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:36:34 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:36:39 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:36:39 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:36:45 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:36:45 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:36:50 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:36:50 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:36:55 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:36:55 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:37:00 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:37:00 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:37:05 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:37:05 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:37:11 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:37:11 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:37:16 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:37:16 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:37:21 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:37:21 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+2025-04-15 06:37:23,145 - __main__ - INFO - Réponse améliorée générée en 183.81s
+2025-04-15 06:37:23,145 - __main__ - INFO - Sauvegarde du modèle au checkpoint 3...
+copied 'deepseek-r1:7b' to 'deepseek-r1:7b_checkpoint_3_20250415_063723'
+2025-04-15 06:37:23,176 - __main__ - INFO - Modèle sauvegardé avec succès sous le tag: deepseek-r1:7b_checkpoint_3_20250415_063723
+2025-04-15 06:37:24,182 - __main__ - INFO - Traitement du scénario 5/10: Optimisation de site WordPress
+2025-04-15 06:37:24,182 - __main__ - INFO - Exécution du scénario RLHF: Optimisation de site WordPress
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:37:26 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:37:26 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:37:31 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:37:32 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:37:37 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:37:37 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:37:42 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:37:42 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:37:47 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:37:47 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:37:52 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:37:52 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:37:57 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:37:57 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:38:02 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:38:03 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:38:08 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:38:08 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:38:13 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:38:13 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:38:18 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:38:18 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:38:23 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:38:23 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:38:28 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:38:28 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:38:33 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:38:34 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:38:39 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:38:39 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:38:44 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:38:44 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:38:49 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:38:49 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+2025-04-15 06:38:53,426 - __main__ - INFO - Réponse améliorée générée en 178.46s
+2025-04-15 06:38:54,429 - __main__ - INFO - Traitement du scénario 6/10: Création avec Elementor
+2025-04-15 06:38:54,430 - __main__ - INFO - Exécution du scénario RLHF: Création avec Elementor
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:38:54 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:38:54 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:38:59 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:39:00 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 06:39:07 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:39:07 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:39:08 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:39:13 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:39:13 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:39:18 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:39:18 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:39:23 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:39:24 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:39:29 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:39:29 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:39:34 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:39:34 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:39:39 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:39:39 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:39:44 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:39:44 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:39:49 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:39:49 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:39:54 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:39:55 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:40:00 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:40:00 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:40:05 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:40:05 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:40:10 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:40:10 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:40:15 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:40:15 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:40:20 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:40:21 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:40:26 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:40:26 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:40:31 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:40:31 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:40:36 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:40:36 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:40:41 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:40:41 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:40:46 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:40:47 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:40:52 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:40:52 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:40:57 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:40:57 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+2025-04-15 06:40:58,677 - __main__ - INFO - Réponse générée en 124.25s: <think>
+Okay, Renée, l'utilisateur veut créer une mise en page à trois colonques responsiveness avec...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:41:02 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:41:02 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+2025-04-15 06:41:07,842 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:41:07,849 - __main__ - INFO - Évaluation en 9.17s - Score: 6.0/10
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:41:07 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:41:08 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:41:13 CEST 2025
+2025-04-15 06:41:13,302 - __main__ - INFO - Réponse générée en 229.12s: <think>
+Bon, l'utilisateur a un site WordPress qui est lent, ce qui est un problème pour son busines...
+Itération terminée avec succès à Tue Apr 15 06:41:13 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:41:18 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:41:20 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+2025-04-15 06:41:22,227 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:41:22,231 - __main__ - INFO - Évaluation en 8.93s - Score: 6.0/10
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:41:25 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:41:25 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:41:30 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:41:31 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:41:36 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:41:36 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:41:41 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:41:41 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:41:46 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:41:46 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:41:51 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:41:51 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:41:56 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:41:57 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:42:02 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:42:02 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:42:07 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:42:07 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:42:12 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:42:12 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:42:17 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:42:17 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:42:22 CEST 2025
+Itération terminée avec succès à Tue Apr 15 06:42:22 CEST 2025
+Démarrage de la prochaine itération dans 5 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:42:28 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:42:28 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:42:38 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:42:38 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:42:48 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:42:48 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:42:58 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:42:58 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:43:08 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:43:08 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 06:43:31 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:43:31 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:43:32 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:43:42 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:43:42 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:43:52 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:43:52 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:44:02 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:44:02 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:44:12 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:44:12 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:44:22 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:44:23 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:44:33 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:44:33 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:44:43 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:44:43 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:44:53 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:44:53 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:44:56,404 - __main__ - INFO - Réponse améliorée générée en 214.17s
+2025-04-15 06:44:57,411 - __main__ - INFO - Traitement du scénario 6/10: Création avec Elementor
+2025-04-15 06:44:57,411 - __main__ - INFO - Exécution du scénario RLHF: Création avec Elementor
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:45:04 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:45:04 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:45:14 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:45:14 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:45:24 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:45:24 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:45:34 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+Erreur détectée (code 1) à Tue Apr 15 06:45:34 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:45:44 CEST 2025
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1940, in <module>
+    trainer = RLHFWordPressTrainer(
+              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: RLHFWordPressTrainer.__init__() got an unexpected keyword argument 'openai_api_key'
+2025-04-15 06:45:45,082 - __main__ - INFO - Réponse améliorée générée en 277.23s
+Erreur détectée (code 1) à Tue Apr 15 06:45:45 CEST 2025
+Tentative de redémarrage dans 10 secondes...
+2025-04-15 06:45:46,088 - __main__ - INFO - Traitement du scénario 7/10: Interaction API WordPress
+2025-04-15 06:45:46,088 - __main__ - INFO - Exécution du scénario RLHF: Interaction API WordPress
+2025-04-15 06:45:46,090 - __main__ - ERROR - Erreur lors du traitement du scénario Interaction API WordPress: name 're' is not defined
+2025-04-15 06:45:46,090 - __main__ - INFO - Traitement du scénario 8/10: Modification via API
+2025-04-15 06:45:46,090 - __main__ - INFO - Exécution du scénario RLHF: Modification via API
+2025-04-15 06:45:46,090 - __main__ - ERROR - Erreur lors du traitement du scénario Modification via API: name 're' is not defined
+2025-04-15 06:45:46,090 - __main__ - INFO - Traitement du scénario 9/10: Sécurité HTTPS
+2025-04-15 06:45:46,090 - __main__ - INFO - Exécution du scénario RLHF: Sécurité HTTPS
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:45:55 CEST 2025
+2025-04-15 06:45:56,163 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b_checkpoint_3_20250415_063723
+2025-04-15 06:45:56,164 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 06:45:56,164 - __main__ - INFO - Traitement du scénario 1/10: Création avec Elementor
+2025-04-15 06:45:56,164 - __main__ - INFO - Exécution du scénario RLHF: Création avec Elementor
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 06:46:12 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:46:12 CEST 2025
+2025-04-15 06:46:12,880 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b_checkpoint_3_20250415_063723
+2025-04-15 06:46:12,880 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 06:46:12,880 - __main__ - INFO - Traitement du scénario 1/10: Conscience de ses choix
+2025-04-15 06:46:12,880 - __main__ - INFO - Exécution du scénario RLHF: Conscience de ses choix
+2025-04-15 06:47:44,518 - __main__ - INFO - Réponse générée en 167.11s: <think>
+Okay, Renée is asking how to create a three-column responsive layout using Elementor. I reme...
+2025-04-15 06:47:54,422 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:47:54,428 - __main__ - INFO - Évaluation en 9.91s - Score: 6.4/10
+2025-04-15 06:48:54,818 - __main__ - INFO - Réponse générée en 188.73s: <think>
+Okay, Renée, je dois expliquer comment configurer HTTPS sur un site WordPress. D'accord, je ...
+2025-04-15 06:48:56,523 - __main__ - INFO - Réponse générée en 163.64s: <think>
+Okay, I need to figure out how Renée feels when she's asked about what it means for her to "...
+2025-04-15 06:49:07,640 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:49:07,652 - __main__ - INFO - Évaluation en 11.13s - Score: 6.1/10
+2025-04-15 06:49:11,224 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:49:11,227 - __main__ - INFO - Évaluation en 16.41s - Score: 8.7/10
+2025-04-15 06:52:07,937 - __main__ - INFO - Traitement du scénario 2/10: Relation Pascal-Renée
+2025-04-15 06:52:07,937 - __main__ - INFO - Exécution du scénario RLHF: Relation Pascal-Renée
+2025-04-15 06:53:36,945 - __main__ - INFO - Réponse améliorée générée en 265.72s
+2025-04-15 06:53:37,950 - __main__ - INFO - Traitement du scénario 10/10: Conseil personnalisé e-commerce
+2025-04-15 06:53:37,950 - __main__ - INFO - Exécution du scénario RLHF: Conseil personnalisé e-commerce
+2025-04-15 06:54:13,820 - __main__ - INFO - Réponse générée en 497.66s: <think>
+Okay, I need to help the user create a three-column responsive layout using Elementor. They'...
+2025-04-15 06:54:24,487 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:54:24,502 - __main__ - INFO - Évaluation en 10.68s - Score: 7.7/10
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 06:54:43 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:54:43 CEST 2025
+2025-04-15 06:54:44,472 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b_checkpoint_3_20250415_063723
+2025-04-15 06:54:44,473 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 06:54:44,473 - __main__ - INFO - Traitement du scénario 1/12: Identité de Renée
+2025-04-15 06:54:44,473 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 06:55:00,773 - __main__ - INFO - Réponse améliorée générée en 426.34s
+2025-04-15 06:55:01,781 - __main__ - INFO - Traitement du scénario 7/10: Interaction API WordPress
+2025-04-15 06:55:01,781 - __main__ - INFO - Exécution du scénario RLHF: Interaction API WordPress
+2025-04-15 06:55:01,781 - __main__ - ERROR - Erreur lors du traitement du scénario Interaction API WordPress: name 're' is not defined
+2025-04-15 06:55:01,781 - __main__ - INFO - Traitement du scénario 8/10: Modification via API
+2025-04-15 06:55:01,782 - __main__ - INFO - Exécution du scénario RLHF: Modification via API
+2025-04-15 06:55:01,783 - __main__ - ERROR - Erreur lors du traitement du scénario Modification via API: name 're' is not defined
+2025-04-15 06:55:01,783 - __main__ - INFO - Traitement du scénario 9/10: Sécurité HTTPS
+2025-04-15 06:55:01,783 - __main__ - INFO - Exécution du scénario RLHF: Sécurité HTTPS
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 06:56:41 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 06:56:41 CEST 2025
+2025-04-15 06:56:42,700 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b_checkpoint_3_20250415_063723
+2025-04-15 06:56:42,700 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 06:56:42,700 - __main__ - INFO - Traitement du scénario 1/12: Identité de Renée
+2025-04-15 06:56:42,700 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 06:56:59,752 - __main__ - INFO - Réponse générée en 291.81s: <think>
+Okay, let's break down how I approached the user's query. The user is asking Renée to recall...
+2025-04-15 06:57:09,646 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 06:57:09,649 - __main__ - INFO - Évaluation en 9.90s - Score: 7.0/10
+2025-04-15 06:58:46,752 - __main__ - INFO - Traitement du scénario 2/10: Conscience de ses choix
+2025-04-15 06:58:46,752 - __main__ - INFO - Exécution du scénario RLHF: Conscience de ses choix
+2025-04-15 06:59:43,918 - __main__ - INFO - Réponse générée en 365.97s: <think>
+Okay, Renée, je dois répondre à la demande de Pascal d'obtenir des recommandations de plugin...
+2025-04-15 07:00:03,317 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:00:03,320 - __main__ - INFO - Évaluation en 19.40s - Score: 6.0/10
+2025-04-15 07:00:31,810 - __main__ - INFO - Réponse générée en 347.34s: <think>
+Okay, let me try to figure out how to approach this query. The user wants me to explain who ...
+2025-04-15 07:00:44,892 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:00:44,898 - __main__ - INFO - Évaluation en 13.09s - Score: 6.7/10
+2025-04-15 07:01:38,875 - __main__ - INFO - Réponse générée en 397.09s: <think>
+Okay, Renée, je dois expliquer comment configurer HTTPS sur son site WordPress. D'accord, je...
+2025-04-15 07:01:50,684 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:01:50,687 - __main__ - INFO - Évaluation en 11.81s - Score: 8.1/10
+2025-04-15 07:02:25,472 - __main__ - INFO - Réponse générée en 342.77s: <think>
+Okay, let me try to figure out how to approach this query. The user wants me to explain who ...
+2025-04-15 07:02:35,068 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:02:35,078 - __main__ - INFO - Évaluation en 9.61s - Score: 5.7/10
+2025-04-15 07:04:26,679 - __main__ - INFO - Réponse générée en 339.93s: <think>
+Okay, so I need to figure out what "apprendre à choisir" means for Renée and how it affects ...
+2025-04-15 07:04:36,583 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:04:36,591 - __main__ - INFO - Évaluation en 9.91s - Score: 7.9/10
+2025-04-15 07:05:42,584 - __main__ - INFO - Traitement du scénario 3/10: Interaction API WordPress
+2025-04-15 07:05:42,584 - __main__ - INFO - Exécution du scénario RLHF: Interaction API WordPress
+2025-04-15 07:06:10,194 - __main__ - INFO - Réponse améliorée générée en 366.87s
+2025-04-15 07:06:10,195 - __main__ - INFO - Sauvegarde du modèle au checkpoint 9...
+copied 'deepseek-r1:7b' to 'deepseek-r1:7b_checkpoint_9_20250415_070610'
+2025-04-15 07:06:10,236 - __main__ - INFO - Modèle sauvegardé avec succès sous le tag: deepseek-r1:7b_checkpoint_9_20250415_070610
+2025-04-15 07:06:11,240 - __main__ - INFO - Session d'entraînement RLHF terminée. 8 exemples générés et sauvegardés dans ./data/rlhf_wordpress_memory.jsonl
+2025-04-15 07:06:54,560 - __main__ - INFO - Traitement du scénario 2/12: Relation Pascal-Renée
+2025-04-15 07:06:54,561 - __main__ - INFO - Exécution du scénario RLHF: Relation Pascal-Renée
+2025-04-15 07:08:19,752 - __main__ - INFO - Réponse améliorée générée en 389.06s
+2025-04-15 07:08:20,756 - __main__ - INFO - Traitement du scénario 10/10: Conseil personnalisé e-commerce
+2025-04-15 07:08:20,757 - __main__ - INFO - Exécution du scénario RLHF: Conseil personnalisé e-commerce
+2025-04-15 07:08:53,296 - __main__ - INFO - Traitement du scénario 2/12: Relation Pascal-Renée
+2025-04-15 07:08:53,296 - __main__ - INFO - Exécution du scénario RLHF: Relation Pascal-Renée
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 07:10:00 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 07:10:00 CEST 2025
+2025-04-15 07:10:01,655 - __main__ - WARNING - Fichier de mémoire ./data/memory/hierarchical_memory.json introuvable
+2025-04-15 07:10:01,696 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b_checkpoint_9_20250415_070610
+2025-04-15 07:10:01,696 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 07:10:01,696 - __main__ - INFO - Traitement du scénario 1/12: Identité de Renée
+2025-04-15 07:10:01,696 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 07:10:49,119 - __main__ - INFO - Traitement du scénario 3/10: Identité de Renée
+2025-04-15 07:10:49,119 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 07:11:37,913 - __main__ - INFO - Réponse générée en 355.33s: <think>
+Okay, I need to figure out how to help the user retrieve all their WordPress articles using ...
+2025-04-15 07:11:51,528 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:11:51,533 - __main__ - INFO - Évaluation en 13.62s - Score: 8.1/10
+2025-04-15 07:12:22,771 - __main__ - INFO - Réponse générée en 328.21s: <think>
+Okay, let's break down how I approached answering Renée's question. First, she asked about h...
+2025-04-15 07:12:34,088 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:12:34,092 - __main__ - INFO - Évaluation en 11.32s - Score: 7.3/10
+2025-04-15 07:13:37,062 - __main__ - INFO - Réponse générée en 316.30s: <think>
+Okay, let's tackle this query step by step. The user is Renée, a WordPress/Elementor special...
+2025-04-15 07:13:46,144 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:13:46,156 - __main__ - INFO - Évaluation en 9.09s - Score: 7.7/10
+2025-04-15 07:14:36,968 - __main__ - INFO - Réponse générée en 275.27s: <think>
+Okay, let me try to figure out how to approach this query. The user wants me to explain who ...
+2025-04-15 07:14:45,590 - __main__ - INFO - Réponse générée en 352.29s: <think>
+Okay, let's break down how I arrived at the answer for Renée. The user asked about how we wo...
+2025-04-15 07:14:47,483 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:14:47,493 - __main__ - INFO - Évaluation en 10.52s - Score: 5.4/10
+2025-04-15 07:14:54,933 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:14:54,937 - __main__ - INFO - Évaluation en 9.35s - Score: 7.3/10
+2025-04-15 07:16:34,275 - __main__ - INFO - Réponse générée en 345.16s: <think>
+Okay, let me try to figure out how to approach this query. The user wants me to explain who ...
+2025-04-15 07:16:47,793 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:16:47,801 - __main__ - INFO - Évaluation en 13.53s - Score: 5.7/10
+2025-04-15 07:17:27,587 - __main__ - INFO - Traitement du scénario 4/10: Création avec Elementor
+2025-04-15 07:17:27,588 - __main__ - INFO - Exécution du scénario RLHF: Création avec Elementor
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 07:17:39 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 07:17:39 CEST 2025
+2025-04-15 07:17:39,931 - __main__ - WARNING - Fichier de mémoire ./data/memory/hierarchical_memory.json introuvable
+2025-04-15 07:17:39,938 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b_checkpoint_9_20250415_070610
+2025-04-15 07:17:39,939 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 07:17:39,939 - __main__ - INFO - Traitement du scénario 1/12: Identité de Renée
+2025-04-15 07:17:39,939 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 07:17:40,764 - __main__ - INFO - Traitement du scénario 3/12: Utilisation de la mémoire hiérarchique
+2025-04-15 07:17:40,765 - __main__ - INFO - Exécution du scénario RLHF: Utilisation de la mémoire hiérarchique
+2025-04-15 07:19:20,393 - __main__ - INFO - Réponse améliorée générée en 334.24s
+2025-04-15 07:19:20,395 - __main__ - INFO - Sauvegarde du modèle au checkpoint 9...
+copied 'deepseek-r1:7b' to 'deepseek-r1:7b_checkpoint_9_20250415_071920'
+2025-04-15 07:19:20,441 - __main__ - INFO - Modèle sauvegardé avec succès sous le tag: deepseek-r1:7b_checkpoint_9_20250415_071920
+2025-04-15 07:19:21,448 - __main__ - INFO - Session d'entraînement RLHF terminée. 8 exemples générés et sauvegardés dans ./data/rlhf_wordpress_memory.jsonl
+2025-04-15 07:19:40,856 - __main__ - INFO - Traitement du scénario 3/12: Utilisation de la mémoire hiérarchique
+2025-04-15 07:19:40,857 - __main__ - INFO - Exécution du scénario RLHF: Utilisation de la mémoire hiérarchique
+2025-04-15 07:20:16,820 - __main__ - INFO - Information stockée en mémoire FACTUAL: Identité de Renée (score: 5.4)
+2025-04-15 07:20:16,823 - __main__ - INFO - Traitement du scénario 2/12: Relation Pascal-Renée
+2025-04-15 07:20:16,823 - __main__ - INFO - Exécution du scénario RLHF: Relation Pascal-Renée
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 07:21:04 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 07:21:04 CEST 2025
+2025-04-15 07:21:05,186 - __main__ - WARNING - Fichier de mémoire ./debug_memory/hierarchical_memory.json introuvable
+2025-04-15 07:21:05,196 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b_checkpoint_9_20250415_071920
+2025-04-15 07:21:05,197 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 07:21:05,197 - __main__ - INFO - Traitement du scénario 1/12: Identité de Renée
+2025-04-15 07:21:05,197 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 07:23:04,293 - __main__ - INFO - Réponse générée en 336.70s: <think>
+Okay, I need to help the user create a three-column responsive layout using Elementor. They'...
+2025-04-15 07:23:12,907 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:23:12,915 - __main__ - INFO - Évaluation en 8.62s - Score: 7.6/10
+2025-04-15 07:23:48,622 - __main__ - INFO - Traitement du scénario 4/10: Interaction API WordPress
+2025-04-15 07:23:48,622 - __main__ - INFO - Exécution du scénario RLHF: Interaction API WordPress
+2025-04-15 07:24:35,637 - __main__ - INFO - Réponse générée en 414.87s: <think>
+Okay, let me try to figure this out. The user is asking Renée about the WordPress theme she'...
+2025-04-15 07:24:46,375 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:24:46,378 - __main__ - INFO - Évaluation en 10.74s - Score: 7.4/10
+2025-04-15 07:24:57,059 - __main__ - INFO - Réponse générée en 316.20s: <think>
+Okay, let me try to figure this out. The user is asking Renée what WordPress theme they're u...
+2025-04-15 07:25:06,573 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:25:06,575 - __main__ - INFO - Évaluation en 9.52s - Score: 7.9/10
+2025-04-15 07:25:37,994 - __main__ - INFO - Réponse générée en 321.17s: <think>
+Bon, je dois expliquer à Renée comment nous collaborons. Elle est une experte en WordPress e...
+2025-04-15 07:25:46,467 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:25:46,476 - __main__ - INFO - Évaluation en 8.48s - Score: 6.4/10
+2025-04-15 07:26:06,190 - __main__ - INFO - Réponse générée en 506.25s: <think>
+Okay, let me try to figure out how to approach this query. The user wants me to explain who ...
+2025-04-15 07:26:24,212 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:26:24,226 - __main__ - INFO - Évaluation en 18.04s - Score: 5.6/10
+2025-04-15 07:26:32,067 - __main__ - INFO - Réponse générée en 326.87s: <think>
+Okay, let me try to figure out how to approach this query. The user wants me to explain who ...
+2025-04-15 07:26:41,537 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:26:41,543 - __main__ - INFO - Évaluation en 9.48s - Score: 7.0/10
+2025-04-15 07:29:20,284 - __main__ - INFO - Traitement du scénario 5/10: Cohérence avec préférences utilisateur
+2025-04-15 07:29:20,285 - __main__ - INFO - Exécution du scénario RLHF: Cohérence avec préférences utilisateur
+2025-04-15 07:29:24,063 - __main__ - INFO - Réponse générée en 335.44s: <think>
+Okay, I need to figure out how to help the user retrieve all their WordPress articles using ...
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 07:29:31 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 07:29:31 CEST 2025
+2025-04-15 07:29:32,337 - __main__ - WARNING - Fichier de mémoire ./debug_memory/hierarchical_memory.json introuvable
+2025-04-15 07:29:32,343 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b_checkpoint_9_20250415_071920
+2025-04-15 07:29:32,343 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 07:29:32,343 - __main__ - INFO - Traitement du scénario 1/12: Identité de Renée
+2025-04-15 07:29:32,343 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 07:29:32,343 - __main__ - INFO - Test d'écriture réussi: fichier créé à ./debug_memory/test_file.txt
+2025-04-15 07:29:32,343 - __main__ - INFO - Test de sauvegarde mémoire réussi: fichier créé à ./debug_memory/test_memory.json
+2025-04-15 07:29:37,870 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:29:37,872 - __main__ - INFO - Évaluation en 13.81s - Score: 7.1/10
+2025-04-15 07:30:16,738 - __main__ - INFO - Traitement du scénario 4/12: Cohérence avec préférences utilisateur
+2025-04-15 07:30:16,739 - __main__ - INFO - Exécution du scénario RLHF: Cohérence avec préférences utilisateur
+2025-04-15 07:30:20,622 - __main__ - INFO - Information stockée en mémoire LEVEL_1: Relation Pascal-Renée (score: 6.4)
+2025-04-15 07:30:20,624 - __main__ - INFO - Traitement du scénario 3/12: Utilisation de la mémoire hiérarchique
+2025-04-15 07:30:20,624 - __main__ - INFO - Exécution du scénario RLHF: Utilisation de la mémoire hiérarchique
+2025-04-15 07:30:50,655 - __main__ - INFO - Traitement du scénario 4/12: Cohérence avec préférences utilisateur
+2025-04-15 07:30:50,656 - __main__ - INFO - Exécution du scénario RLHF: Cohérence avec préférences utilisateur
+2025-04-15 07:31:10,624 - __main__ - INFO - Information stockée en mémoire FACTUAL (ID: 9): Identité de Renée (score: 5.6)
+2025-04-15 07:31:10,625 - __main__ - INFO - Traitement du scénario 2/12: Relation Pascal-Renée
+2025-04-15 07:31:10,626 - __main__ - INFO - Exécution du scénario RLHF: Relation Pascal-Renée
+2025-04-15 07:31:14,066 - __main__ - INFO - Information stockée en mémoire FACTUAL (ID: 9): Identité de Renée (score: 7.0)
+2025-04-15 07:31:14,068 - __main__ - INFO - Traitement du scénario 2/12: Relation Pascal-Renée
+2025-04-15 07:31:14,068 - __main__ - INFO - Exécution du scénario RLHF: Relation Pascal-Renée
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 07:32:52 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 07:32:52 CEST 2025
+2025-04-15 07:32:53,936 - __main__ - WARNING - Fichier de mémoire ./debug_memory/hierarchical_memory.json introuvable
+2025-04-15 07:32:53,965 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b_checkpoint_9_20250415_071920
+2025-04-15 07:32:53,965 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 07:32:53,965 - __main__ - INFO - Traitement du scénario 1/12: Identité de Renée
+2025-04-15 07:32:53,965 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 07:32:53,966 - __main__ - INFO - Test d'écriture réussi: fichier créé à ./debug_memory/test_file.txt
+2025-04-15 07:32:53,966 - __main__ - INFO - Test de sauvegarde mémoire réussi: fichier créé à ./debug_memory/test_memory.json
+2025-04-15 07:33:42,129 - __main__ - INFO - Réponse générée en 261.84s: <think>
+Okay, Renée, I need to help the user create a new section on their WordPress site using Elem...
+2025-04-15 07:33:49,841 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:33:49,843 - __main__ - INFO - Évaluation en 7.71s - Score: 7.3/10
+2025-04-15 07:34:10,511 - __main__ - INFO - Réponse générée en 278.17s: <think>
+Okay, let me try to figure out how to approach this query. The user wants me to explain who ...
+2025-04-15 07:34:23,284 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:34:23,298 - __main__ - INFO - Évaluation en 12.79s - Score: 4.0/10
+2025-04-15 07:35:36,815 - __main__ - INFO - Traitement du scénario 5/10: Réflexion sur l'apprentissage
+2025-04-15 07:35:36,815 - __main__ - INFO - Exécution du scénario RLHF: Réflexion sur l'apprentissage
+2025-04-15 07:37:22,417 - __main__ - INFO - Réponse générée en 371.79s: <think>
+Okay, I need to figure out how Renée can explain how she works with the user. From the memor...
+2025-04-15 07:37:29,594 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:37:29,597 - __main__ - INFO - Évaluation en 7.18s - Score: 7.0/10
+2025-04-15 07:37:42,447 - __main__ - INFO - Réponse générée en 441.82s: <think>
+Okay, the user is asking in French about which WordPress theme they're using on their curren...
+2025-04-15 07:37:50,790 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:37:50,793 - __main__ - INFO - Évaluation en 8.34s - Score: 5.4/10
+2025-04-15 07:39:00,225 - __main__ - INFO - Réponse générée en 489.57s: <think>
+Okay, let me try to figure out how to approach this problem step by step. The user wants to ...
+2025-04-15 07:39:07,646 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:39:07,649 - __main__ - INFO - Évaluation en 7.42s - Score: 7.0/10
+2025-04-15 07:39:11,759 - __main__ - INFO - Réponse générée en 535.02s: <think>
+Okay, let me try to figure out how to approach this problem step by step. The user wants to ...
+2025-04-15 07:39:19,769 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:39:19,782 - __main__ - INFO - Évaluation en 8.02s - Score: 7.4/10
+2025-04-15 07:39:24,514 - __main__ - INFO - Réponse générée en 390.55s: <think>
+Okay, let me try to figure out how to approach this query. The user wants me to explain who ...
+2025-04-15 07:39:34,935 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:39:34,944 - __main__ - INFO - Évaluation en 10.43s - Score: 5.0/10
+2025-04-15 07:39:51,404 - __main__ - INFO - Réponse générée en 517.34s: <think>
+Okay, I need to figure out how Renée can explain how they work together. Let's start by look...
+2025-04-15 07:39:58,336 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:39:58,344 - __main__ - INFO - Évaluation en 6.94s - Score: 7.6/10
+2025-04-15 07:42:02,511 - __main__ - INFO - Traitement du scénario 6/10: Modification via API
+2025-04-15 07:42:02,512 - __main__ - INFO - Exécution du scénario RLHF: Modification via API
+Traceback (most recent call last):
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1962, in <module>
+    "timestamp": datetime.now().isoformat()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1854, in run_training_example
+    
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 836, in simulate_api_response
+    def simulate_web_search(self, query: str) -> str:
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/pascalseppey/renee-project/rlhf_wordpress_memory_trainer.py", line 1131, in _simulate_update_post_response
+    "template": "",
+                ^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-04-15 07:42:43,588 - __main__ - INFO - Information stockée en mémoire FACTUAL (ID: 9): Identité de Renée (score: 4.0)
+2025-04-15 07:42:43,590 - __main__ - INFO - Traitement du scénario 2/12: Relation Pascal-Renée
+2025-04-15 07:42:43,590 - __main__ - INFO - Exécution du scénario RLHF: Relation Pascal-Renée
+2025-04-15 07:42:43,591 - __main__ - INFO - Test d'écriture réussi: fichier créé à ./debug_memory/test_file.txt
+2025-04-15 07:42:43,592 - __main__ - INFO - Test de sauvegarde mémoire réussi: fichier créé à ./debug_memory/test_memory.json
+2025-04-15 07:43:33,106 - __main__ - INFO - Réponse générée en 476.29s: <think>
+Okay, so I need to figure out how Renée feels about her learning process and whether doubt h...
+2025-04-15 07:43:43,965 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:43:43,983 - __main__ - INFO - Évaluation en 10.88s - Score: 6.3/10
+2025-04-15 07:44:25,771 - __main__ - INFO - Information stockée en mémoire LEVEL_1 (ID: 10): Relation Pascal-Renée (score: 7.0)
+2025-04-15 07:44:25,773 - __main__ - INFO - Traitement du scénario 3/12: Utilisation de la mémoire hiérarchique
+2025-04-15 07:44:25,773 - __main__ - INFO - Exécution du scénario RLHF: Utilisation de la mémoire hiérarchique
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 07:45:06 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 07:45:06 CEST 2025
+2025-04-15 07:45:07,336 - __main__ - WARNING - Fichier de mémoire ./debug_memory/hierarchical_memory.json introuvable
+2025-04-15 07:45:07,347 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b_checkpoint_9_20250415_071920
+2025-04-15 07:45:07,347 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 07:45:07,347 - __main__ - INFO - Traitement du scénario 1/12: Identité de Renée
+2025-04-15 07:45:07,347 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 07:45:07,347 - __main__ - INFO - Test d'écriture réussi: fichier créé à ./debug_memory/test_file.txt
+2025-04-15 07:45:07,348 - __main__ - INFO - Test de sauvegarde mémoire réussi: fichier créé à ./debug_memory/test_memory.json
+2025-04-15 07:45:42,800 - __main__ - INFO - Information stockée en mémoire LEVEL_2: Utilisation de la mémoire hiérarchique (score: 5.4)
+2025-04-15 07:45:42,802 - __main__ - INFO - Traitement du scénario 4/12: Cohérence avec préférences utilisateur
+2025-04-15 07:45:42,802 - __main__ - INFO - Exécution du scénario RLHF: Cohérence avec préférences utilisateur
+2025-04-15 07:46:38,946 - __main__ - INFO - Traitement du scénario 5/12: Optimisation de site WordPress
+2025-04-15 07:46:38,947 - __main__ - INFO - Exécution du scénario RLHF: Optimisation de site WordPress
+2025-04-15 07:46:48,839 - __main__ - INFO - Traitement du scénario 5/12: Optimisation de site WordPress
+2025-04-15 07:46:48,839 - __main__ - INFO - Exécution du scénario RLHF: Optimisation de site WordPress
+2025-04-15 07:47:15,149 - __main__ - INFO - Information stockée en mémoire LEVEL_2 (ID: 10): Relation Pascal-Renée (score: 7.6)
+2025-04-15 07:47:15,150 - __main__ - INFO - Traitement du scénario 3/12: Utilisation de la mémoire hiérarchique
+2025-04-15 07:47:15,150 - __main__ - INFO - Exécution du scénario RLHF: Utilisation de la mémoire hiérarchique
+2025-04-15 07:48:42,657 - __main__ - INFO - Réponse générée en 359.07s: <think>
+Bon, je dois répondre à la demande de l'utilisateur Renée. Elle a demandé de me rappeler com...
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 07:48:46 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 07:48:46 CEST 2025
+2025-04-15 07:48:46,973 - __main__ - INFO - Mémoire hiérarchique chargée depuis ./debug_memory/hierarchical_memory.json
+2025-04-15 07:48:46,991 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b_checkpoint_9_20250415_071920
+2025-04-15 07:48:46,991 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 07:48:46,991 - __main__ - INFO - Traitement du scénario 1/12: Identité de Renée
+2025-04-15 07:48:46,991 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 07:48:46,992 - __main__ - INFO - Test d'écriture réussi: fichier créé à ./debug_memory/test_file.txt
+2025-04-15 07:48:46,992 - __main__ - INFO - Test de sauvegarde mémoire réussi: fichier créé à ./debug_memory/test_memory.json
+2025-04-15 07:48:51,180 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:48:51,186 - __main__ - INFO - Évaluation en 8.53s - Score: 6.4/10
+2025-04-15 07:49:31,906 - __main__ - INFO - Information stockée en mémoire FACTUAL (ID: 9): Identité de Renée (score: 5.0)
+2025-04-15 07:49:31,908 - __main__ - INFO - Traitement du scénario 2/12: Relation Pascal-Renée
+2025-04-15 07:49:31,908 - __main__ - INFO - Exécution du scénario RLHF: Relation Pascal-Renée
+2025-04-15 07:49:31,908 - __main__ - INFO - Test d'écriture réussi: fichier créé à ./debug_memory/test_file.txt
+2025-04-15 07:49:31,908 - __main__ - INFO - Test de sauvegarde mémoire réussi: fichier créé à ./debug_memory/test_memory.json
+2025-04-15 07:50:09,397 - __main__ - INFO - Traitement du scénario 6/10: Utilisation de la mémoire hiérarchique
+2025-04-15 07:50:09,398 - __main__ - INFO - Exécution du scénario RLHF: Utilisation de la mémoire hiérarchique
+2025-04-15 07:51:12,044 - __main__ - INFO - Réponse générée en 406.27s: <think>
+Okay, let me try to figure this out. The user is asking Renée which WordPress theme she's us...
+2025-04-15 07:51:20,447 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:51:20,451 - __main__ - INFO - Évaluation en 8.41s - Score: 7.7/10
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 07:52:12 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 07:52:12 CEST 2025
+2025-04-15 07:52:13,280 - __main__ - INFO - Mémoire hiérarchique chargée depuis ./debug_memory/hierarchical_memory.json
+2025-04-15 07:52:13,289 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b_checkpoint_9_20250415_071920
+2025-04-15 07:52:13,289 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 07:52:13,289 - __main__ - INFO - Traitement du scénario 1/12: Identité de Renée
+2025-04-15 07:52:13,289 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 07:52:13,289 - __main__ - INFO - Test d'écriture réussi: fichier créé à ./debug_memory/test_file.txt
+2025-04-15 07:52:13,289 - __main__ - INFO - Test de sauvegarde mémoire réussi: fichier créé à ./debug_memory/test_memory.json
+2025-04-15 07:52:28,059 - __main__ - INFO - Réponse générée en 440.71s: <think>
+Okay, let me try to figure out how to approach this query. The user wants me to explain who ...
+2025-04-15 07:52:41,379 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:52:41,384 - __main__ - INFO - Évaluation en 13.32s - Score: 4.0/10
+2025-04-15 07:53:46,744 - __main__ - INFO - Réponse générée en 391.59s: <think>
+Bon, je dois répondre à la question de l'utilisateur : "Quel thème WordPress est-ce que j'ut...
+2025-04-15 07:53:53,469 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:53:53,471 - __main__ - INFO - Évaluation en 6.73s - Score: 7.0/10
+2025-04-15 07:54:17,363 - __main__ - INFO - Réponse générée en 458.41s: <think>
+Okay, Renée, I need to help optimize a slow WordPress site. Let's start by considering the m...
+2025-04-15 07:54:26,304 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:54:26,306 - __main__ - INFO - Évaluation en 8.94s - Score: 7.7/10
+2025-04-15 07:55:29,618 - __main__ - INFO - Information stockée en mémoire LEVEL_1 (ID: 10): Relation Pascal-Renée (score: 6.4)
+2025-04-15 07:55:29,619 - __main__ - INFO - Traitement du scénario 3/12: Utilisation de la mémoire hiérarchique
+2025-04-15 07:55:29,619 - __main__ - INFO - Exécution du scénario RLHF: Utilisation de la mémoire hiérarchique
+2025-04-15 07:55:29,619 - __main__ - INFO - Test d'écriture réussi: fichier créé à ./debug_memory/test_file.txt
+2025-04-15 07:55:29,620 - __main__ - INFO - Test de sauvegarde mémoire réussi: fichier créé à ./debug_memory/test_memory.json
+2025-04-15 07:55:38,719 - __main__ - INFO - Réponse générée en 411.73s: <think>
+Okay, I need to help the user by explaining who Renée is and how she perceives herself. From...
+2025-04-15 07:55:45,770 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:55:45,774 - __main__ - INFO - Évaluation en 7.05s - Score: 4.0/10
+2025-04-15 07:55:48,935 - __main__ - INFO - Réponse générée en 540.09s: <think>
+Okay, Renée, I need to help optimize a slow WordPress site. Let's see what the user has ment...
+2025-04-15 07:55:59,954 - __main__ - INFO - Réponse générée en 617.15s: <think>
+Okay, the user is asking for help to create a new section on their website that aligns with ...
+2025-04-15 07:56:07,414 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:56:07,418 - __main__ - INFO - Évaluation en 18.48s - Score: 6.0/10
+2025-04-15 07:56:08,437 - __main__ - INFO - Réponse générée en 396.53s: <think>
+Bon, je dois répondre à la demande de l'utilisateur Renée. Elle a posé une question sur les ...
+2025-04-15 07:56:10,950 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:56:10,955 - __main__ - INFO - Évaluation en 11.00s - Score: 6.4/10
+2025-04-15 07:56:17,529 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:56:17,536 - __main__ - INFO - Évaluation en 9.10s - Score: 6.4/10
+2025-04-15 07:56:41,738 - __main__ - INFO - Réponse générée en 392.34s: <think>
+Okay, let me try to figure this out step by step. The user is asking Renée, who's a digital ...
+2025-04-15 07:56:50,278 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:56:50,282 - __main__ - INFO - Évaluation en 8.54s - Score: 7.7/10
+2025-04-15 07:58:02,383 - __main__ - INFO - Information stockée en mémoire FACTUAL (ID: 9): Identité de Renée (score: 4.0)
+2025-04-15 07:58:02,383 - __main__ - INFO - Compteur d'exemples: 1
+2025-04-15 07:58:02,383 - __main__ - INFO - Tentative de sauvegarde de la mémoire dans: ./debug_memory/hierarchical_memory.json
+2025-04-15 07:58:02,383 - __main__ - INFO - État de la mémoire: {'LEVEL_1': 3, 'LEVEL_2': 2, 'LEVEL_3': 2, 'FACTUAL': 3}
+2025-04-15 07:58:02,385 - __main__ - INFO - Mémoire hiérarchique sauvegardée dans ./debug_memory/hierarchical_memory.json
+2025-04-15 07:58:02,385 - __main__ - INFO - ✅ Mémoire sauvegardée après 1 exemples dans ./debug_memory/hierarchical_memory.json
+2025-04-15 07:58:02,386 - __main__ - INFO - Traitement du scénario 2/12: Relation Pascal-Renée
+2025-04-15 07:58:02,386 - __main__ - INFO - Exécution du scénario RLHF: Relation Pascal-Renée
+2025-04-15 07:58:02,386 - __main__ - INFO - Test d'écriture réussi: fichier créé à ./debug_memory/test_file.txt
+2025-04-15 07:58:02,386 - __main__ - INFO - Test de sauvegarde mémoire réussi: fichier créé à ./debug_memory/test_memory.json
+2025-04-15 07:58:27,292 - __main__ - INFO - Réponse générée en 374.00s: <think>
+Okay, I need to help the user by explaining who Renée is and how she perceives herself. From...
+2025-04-15 07:58:33,961 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 07:58:33,967 - __main__ - INFO - Évaluation en 6.67s - Score: 4.0/10
+2025-04-15 07:58:48,154 - __main__ - INFO - Information stockée en mémoire LEVEL_2 (ID: 11): Utilisation de la mémoire hiérarchique (score: 7.0)
+2025-04-15 07:58:48,155 - __main__ - INFO - Traitement du scénario 4/12: Cohérence avec préférences utilisateur
+2025-04-15 07:58:48,156 - __main__ - INFO - Exécution du scénario RLHF: Cohérence avec préférences utilisateur
+2025-04-15 07:59:01,762 - __main__ - INFO - Information stockée en mémoire LEVEL_2 (ID: 11): Utilisation de la mémoire hiérarchique (score: 7.7)
+2025-04-15 07:59:01,763 - __main__ - INFO - Traitement du scénario 4/12: Cohérence avec préférences utilisateur
+2025-04-15 07:59:01,763 - __main__ - INFO - Exécution du scénario RLHF: Cohérence avec préférences utilisateur
+Démarrage de la boucle d'entraînement RLHF pour DeepSeek (Tue Apr 15 08:00:24 CEST 2025)
+===============================================
+Nouvelle itération démarrée à Tue Apr 15 08:00:24 CEST 2025
+2025-04-15 08:00:25,606 - __main__ - INFO - Mémoire hiérarchique chargée depuis ./debug_memory/hierarchical_memory.json
+2025-04-15 08:00:25,618 - __main__ - INFO - Modèle DeepSeek trouvé dans Ollama: deepseek-r1:7b_checkpoint_9_20250415_071920
+2025-04-15 08:00:25,618 - __main__ - INFO - RLHF WordPress Trainer initialisé avec DeepSeek (deepseek-r1:7b) et critique (gpt-4o)
+2025-04-15 08:00:25,618 - __main__ - INFO - Traitement du scénario 1/12: Identité de Renée
+2025-04-15 08:00:25,618 - __main__ - INFO - Exécution du scénario RLHF: Identité de Renée
+2025-04-15 08:00:25,618 - __main__ - INFO - Test d'écriture réussi: fichier créé à ./debug_memory/test_file.txt
+2025-04-15 08:00:25,618 - __main__ - INFO - Test de sauvegarde mémoire réussi: fichier créé à ./debug_memory/test_memory.json
+2025-04-15 08:00:39,064 - __main__ - INFO - Réponse générée en 309.44s: <think>
+Okay, the user is asking in French about which WordPress theme they're using on their curren...
+2025-04-15 08:00:46,145 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 08:00:46,148 - __main__ - INFO - Évaluation en 7.08s - Score: 6.4/10
+2025-04-15 08:01:06,705 - __main__ - INFO - Information stockée en mémoire FACTUAL (ID: 1): Identité de Renée (score: 4.0)
+2025-04-15 08:01:06,705 - __main__ - INFO - Compteur d'exemples: 1
+2025-04-15 08:01:06,705 - __main__ - INFO - Tentative de sauvegarde de la mémoire dans: ./debug_memory/hierarchical_memory.json
+2025-04-15 08:01:06,705 - __main__ - INFO - État de la mémoire: {'LEVEL_1': 0, 'LEVEL_2': 0, 'LEVEL_3': 1, 'FACTUAL': 1}
+2025-04-15 08:01:06,706 - __main__ - INFO - Mémoire hiérarchique sauvegardée dans ./debug_memory/hierarchical_memory.json
+2025-04-15 08:01:06,706 - __main__ - INFO - ✅ Mémoire sauvegardée après 1 exemples dans ./debug_memory/hierarchical_memory.json
+2025-04-15 08:01:06,707 - __main__ - INFO - Traitement du scénario 2/12: Relation Pascal-Renée
+2025-04-15 08:01:06,707 - __main__ - INFO - Exécution du scénario RLHF: Relation Pascal-Renée
+2025-04-15 08:01:06,707 - __main__ - INFO - Test d'écriture réussi: fichier créé à ./debug_memory/test_file.txt
+2025-04-15 08:01:06,708 - __main__ - INFO - Test de sauvegarde mémoire réussi: fichier créé à ./debug_memory/test_memory.json
+2025-04-15 08:01:19,310 - __main__ - INFO - Traitement du scénario 6/12: Création avec Elementor
+2025-04-15 08:01:19,310 - __main__ - INFO - Exécution du scénario RLHF: Création avec Elementor
+2025-04-15 08:02:29,071 - __main__ - INFO - Information stockée en mémoire LEVEL_1 (ID: 10): Relation Pascal-Renée (score: 6.4)
+2025-04-15 08:02:29,072 - __main__ - INFO - Traitement du scénario 3/12: Utilisation de la mémoire hiérarchique
+2025-04-15 08:02:29,072 - __main__ - INFO - Exécution du scénario RLHF: Utilisation de la mémoire hiérarchique
+2025-04-15 08:02:29,072 - __main__ - INFO - Test d'écriture réussi: fichier créé à ./debug_memory/test_file.txt
+2025-04-15 08:02:29,072 - __main__ - INFO - Test de sauvegarde mémoire réussi: fichier créé à ./debug_memory/test_memory.json
+2025-04-15 08:03:07,277 - __main__ - INFO - Traitement du scénario 6/12: Création avec Elementor
+2025-04-15 08:03:07,277 - __main__ - INFO - Exécution du scénario RLHF: Création avec Elementor
+2025-04-15 08:03:45,010 - __main__ - INFO - Information stockée en mémoire LEVEL_1: Cohérence avec préférences utilisateur (score: 6.4)
+2025-04-15 08:03:45,012 - __main__ - INFO - Traitement du scénario 5/12: Optimisation de site WordPress
+2025-04-15 08:03:45,012 - __main__ - INFO - Exécution du scénario RLHF: Optimisation de site WordPress
+2025-04-15 08:04:20,294 - __main__ - INFO - Traitement du scénario 7/10: Optimisation de site WordPress
+2025-04-15 08:04:20,294 - __main__ - INFO - Exécution du scénario RLHF: Optimisation de site WordPress
+2025-04-15 08:05:37,658 - __main__ - INFO - Réponse générée en 455.27s: <think>
+Bon, je dois répondre à la demande de l'utilisateur d'Appel à l'aide. L'utilisateur a demand...
+2025-04-15 08:05:50,463 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 08:05:50,471 - __main__ - INFO - Évaluation en 12.81s - Score: 4.0/10
+2025-04-15 08:07:10,388 - __main__ - INFO - Information stockée en mémoire FACTUAL (ID: 1): Identité de Renée (score: 4.0)
+2025-04-15 08:07:10,389 - __main__ - INFO - Mémoire hiérarchique sauvegardée dans ./debug_memory/hierarchical_memory.json
+2025-04-15 08:07:10,389 - __main__ - INFO - Mémoire sauvegardée après ajout de l'élément ID: 1
+2025-04-15 08:07:10,389 - __main__ - INFO - Compteur d'exemples: 1
+2025-04-15 08:07:10,389 - __main__ - INFO - Tentative de sauvegarde de la mémoire dans: ./debug_memory/hierarchical_memory.json
+2025-04-15 08:07:10,389 - __main__ - INFO - État de la mémoire: {'LEVEL_1': 0, 'LEVEL_2': 0, 'LEVEL_3': 1, 'FACTUAL': 1}
+2025-04-15 08:07:10,390 - __main__ - INFO - Mémoire hiérarchique sauvegardée dans ./debug_memory/hierarchical_memory.json
+2025-04-15 08:07:10,390 - __main__ - INFO - ✅ Mémoire sauvegardée après 1 exemples dans ./debug_memory/hierarchical_memory.json
+2025-04-15 08:07:10,390 - __main__ - INFO - Traitement du scénario 2/12: Relation Pascal-Renée
+2025-04-15 08:07:10,390 - __main__ - INFO - Exécution du scénario RLHF: Relation Pascal-Renée
+2025-04-15 08:07:10,391 - __main__ - INFO - Test d'écriture réussi: fichier créé à ./debug_memory/test_file.txt
+2025-04-15 08:07:10,391 - __main__ - INFO - Test de sauvegarde mémoire réussi: fichier créé à ./debug_memory/test_memory.json
+2025-04-15 08:07:19,123 - __main__ - INFO - Réponse générée en 413.50s: <think>
+Okay, I need to help the user explain who Renée is and how she perceives herself. The user h...
+2025-04-15 08:07:27,807 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 08:07:27,820 - __main__ - INFO - Évaluation en 8.70s - Score: 4.0/10

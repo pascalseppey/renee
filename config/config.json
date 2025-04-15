@@ -1,0 +1,40 @@
+{
+    "project_name": "Renée",
+    "version": "1.0.0",
+    "components": {
+        "memory": {
+            "enabled": true,
+            "short_term_limit": 15,
+            "condensation_interval_minutes": 5,
+            "hourly_condensation_enabled": true,
+            "daily_condensation_enabled": true
+        },
+        "rag": {
+            "enabled": true,
+            "vector_db": "qdrant",
+            "embedding_model": "BAAI/bge-large-en-v1.5",
+            "reranking_enabled": true
+        },
+        "persona": {
+            "enabled": true,
+            "base_model": "renee-deepseek-7b",
+            "use_ollama": true
+        },
+        "api": {
+            "enabled": true,
+            "host": "0.0.0.0",
+            "port": 8443,
+            "use_ssl": false,
+            "cors_origins": ["http://localhost:3000"]
+        },
+        "web": {
+            "enabled": false,
+            "wordpress_integration": false
+        }
+    },
+    "acceleration": {
+        "device": "mps",
+        "mixed_precision": true,
+        "batch_size": 16
+    }
+}

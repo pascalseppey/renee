@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-04-15T07:25:17.523205",
+  "test_key": "test_value",
+  "nested": {
+    "level1": {
+      "level2": "deep value"
+    }
+  },
+  "array": [
+    1,
+    2,
+    3,
+    "test"
+  ]
+}
